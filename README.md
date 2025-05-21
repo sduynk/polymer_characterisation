@@ -17,7 +17,8 @@ To install the repository, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/PolyChar.git
+    git clone https://github.com/sduynk/Polymer_characterisation.git
+
     cd PolyChar
     ```
 
