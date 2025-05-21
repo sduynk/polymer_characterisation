@@ -8,7 +8,8 @@ PolyChar is a simple laser-based platform that combines computer vision and deep
 
 ## Method
 
-![Overview](./assets/overview.png)
+
+
 
 ## Installation
 
@@ -50,7 +51,28 @@ Running solubility.ipynb on the solubility dataset should give the following res
 
 ## HSP Results
 
+
+
+| Polymer | Conc. (% w/v) | δD (GT) | δP (GT) | δH (GT) | δD (Pred) | δP (Pred) | δH (Pred) | R₀   | ED  | PED (%) |
+| ------- | ------------- | ------- | ------- | ------- | --------- | --------- | --------- | ---- | --- | ------- |
+| PMMA    | 5             | 18.6    | 10.5    | 5.1     | 17.4      | 10.4      | 3.1       | 9.2  | 2.4 | 11      |
+| PS      | 5             | 18.5    | 4.5     | 2.9     | 18.1      | 3.9       | 5.7       | 4.5  | 2.9 | 15      |
+| PVP     | 5             | 17.5    | 8.0     | 15.0    | 20.0      | 12.6      | 14.1      | 13.4 | 5.3 | 22      |
+| PCL     | 5             | 17.7    | 5.0     | 8.4     | 18.3      | 10.5      | 5.0       | 9.6  | 6.5 | 32      |
+
+
 ## Particle Size Results
+
+
+
+| Method                    | MAE (nm)(mean ± std)     | RMSE (nm)(mean ± std)     | R²(mean ± std)     |
+| ------------------------- | ------------------------ | ------------------------- | ------------------ |
+| **PPSNet - MLP (Sine)**   | **9.91 ± 3.42**          | **15.76 ± 6.96**          | **0.98 ± 0.01**    |
+| PPSNet (no conditioning)  | 22.25 ± 3.97             | 32.01 ± 6.95              | 0.93 ± 0.04        |
+| Polynomial Regression     | 32.55 ± 6.67             | 47.81 ± 9.58              | 0.87 ± 0.03        |
+| EfficientNet - MLP (Sine) | 14.57 ± 3.71             | 23.64 ± 6.87              | 0.96 ± 0.02        |
+
+
 
 ## Project Structure
 
