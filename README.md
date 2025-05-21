@@ -107,10 +107,10 @@ PolyChar/
 - **requirements.txt**: Lists the dependencies required to run the project.
 
 
-Authors
+## Authors
 George Killick (george.killick@liverpool.ac.uk)
 Seda Uyanik (seda.uyanik@liverpool.ac.uk)
 
 
-License
+## License
 Distributed under the Unlicense License. See LICENSE.txt for more information.
