@@ -85,7 +85,7 @@ PolyChar/
 │   ├── train_classifier.py 
 │   ├── results/
 │   │   └── Summarize_results.ipynb
-│   ├── solubility_setup_and_hparams.ipynb
+│   ├── solubility_and_hparams.ipynb
 │   ├── models.py 
 │   └── utils.py 
 ├── ParticleSize/
