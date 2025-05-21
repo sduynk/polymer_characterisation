@@ -50,7 +50,7 @@ Running solubility.ipynb on the solubility dataset should give the following res
 | ConvNext Tiny     | 0.865±0.045	| 0.904±0.035	| 0.869±0.051	| 0.878±0.050   |
 
 
-## HSP Results
+## Hansen Solubility Parameters Results
 
 
 
@@ -81,7 +81,7 @@ The project is organized as follows:
 
 ```
 PolyChar/
-├── Solubility/
+├── Solubility Classification/
 │   ├── dataloaders.py 
 │   ├── train_classifier.py 
 │   ├── results/
@@ -89,7 +89,7 @@ PolyChar/
 │   ├── solubility_and_hparams.ipynb
 │   ├── models.py 
 │   └── utils.py 
-├── ParticleSize/
+├── ParticleSize Regression/
 │   ├── dataloaders.py 
 │   ├── train_regression.py 
 │   ├── ps_models.py 
@@ -97,7 +97,7 @@ PolyChar/
 │   ├── particle_size.ipynb
 │   ├── figures.ipynb
 │   └── utils.py 
-├── HSP/
+├── Hansen Solubility Parameters/
 │   ├── Genetic_algorithm.py
 ├── README.md
 └── requirements.txt
