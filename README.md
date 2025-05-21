@@ -10,6 +10,8 @@ PolyChar is a simple laser-based platform that combines computer vision and deep
 
 ![illustration of three methods](method.png)
 
+(Designed to be compatible with light-colored backgrounds.)
+
 
 ## Installation
 
