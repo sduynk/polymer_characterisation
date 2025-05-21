@@ -8,7 +8,8 @@ PolyChar is a simple laser-based platform that combines computer vision and deep
 
 ## Method
 
-![Overview](./method.JPG)
+![illustration of three methods](polymer_characterisation/method.png)
+
 
 ## Installation
 
