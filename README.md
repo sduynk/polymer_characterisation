@@ -81,24 +81,23 @@ The project is organized as follows:
 ```
 PolyChar/
 ├── Solubility/
-│   ├── dataloaders.py
-│   ├── train_classifier.py
+│   ├── dataloaders.py 
+│   ├── train_classifier.py 
 │   ├── results/
 │   │   └── Summarize_results.ipynb
-│   ├── solubility.ipynb
-│   ├── hparam.ipynb
-│   ├── models.py
-│   └── utils.py
+│   ├── solubility_setup_and_hparams.ipynb
+│   ├── models.py 
+│   └── utils.py 
 ├── ParticleSize/
-│   ├── dataloaders.py
-│   ├── train_regression.py
-│   ├── ps_models.py
+│   ├── dataloaders.py 
+│   ├── train_regression.py 
+│   ├── ps_models.py 
 │   ├── polynomial_regression.ipynb
 │   ├── particle_size.ipynb
 │   ├── figures.ipynb
-│   └── utils.py
+│   └── utils.py 
 ├── HSP/
-│   ├──
+│   ├── Genetic_Algo_vebber.py
 ├── README.md
 └── requirements.txt
 ```
