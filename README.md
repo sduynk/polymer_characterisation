@@ -1,6 +1,6 @@
 # PolyChar
 
-Official codebase for "Advancements in Polymer Characterisation Analysis: A Laser-Based System Integrating Computer Vision for Polymer Characterisation" 
+Official codebase for "Computer Vision for Polymer Characterisation using Lasers" 
 
 PolyChar is a simple laser-based platform that combines computer vision and deep learning models to classify the solubility of different polymeric compounds across a range of solvents. Using the results obtained from the solubility screening method, Hansen Solubility Parameters (HSP) of the polymers using are determined using an optimisation algorithm. Additionally, a Convolutional Neural Network regression model is also used to estimate the size of polymeric nanoparticles between 20-470 nm.
 
