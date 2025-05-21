@@ -98,7 +98,7 @@ PolyChar/
 │   ├── figures.ipynb
 │   └── utils.py 
 ├── HSP/
-│   ├── Genetic_Algo_vebber.py
+│   ├── Genetic_algorithm.py
 ├── README.md
 └── requirements.txt
 ```
