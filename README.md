@@ -19,7 +19,7 @@ To install the repository, follow these steps:
     ```sh
     git clone https://github.com/sduynk/Polymer_characterisation.git
 
-    cd PolyChar
+    cd Polymer_characterisation
     ```
 
 2. **Create a conda environment**:
