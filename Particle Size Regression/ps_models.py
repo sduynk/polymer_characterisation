@@ -1,9 +1,6 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from torchvision import models
-from torch import Tensor
-import numpy as np
 
 class MLP(nn.Module):
     def __init__(self, input_size, hidden_size, output_size, omega=10):
@@ -29,8 +26,6 @@ class FILMLayer(nn.Module):
         beta = self.beta(condition)[:,:,None, None]
 
         return x + (gamma * x + beta)
-
-
 
 
 class Small(nn.Module):
