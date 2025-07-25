@@ -2,7 +2,7 @@ import torch
 import copy
 from sklearn.metrics import precision_score, recall_score, f1_score, accuracy_score
 from utils import *
-from sol_models import init_model
+from models import init_model
 import torch.nn as nn
 from dataloaders import cross_val_solubility
 import pandas as pd
@@ -129,6 +129,9 @@ def train_cross_val(config, save_path=None):
         test_results.append(test_metrics)
 
         if save_path:
+            if not os.path.exists(save_path):
+                os.makedirs(save_path)
+
             print(f"Saving model for fold {fold}...")
             torch.save({
                 'model_state_dict': model.state_dict(),
@@ -169,6 +172,9 @@ def train_no_cv(config, save_path=None):
         test_metrics = test_model(test_loader, model, device)
 
         if save_path:
+            if not os.path.exists(save_path):
+                os.makedirs(save_path)
+
             print("Saving model...")
             torch.save({
                 'model_state_dict': model.state_dict(),
