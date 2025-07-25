@@ -1,0 +1,912 @@
+file,solvent,polymer,class,concentration,solvent molecular formula,solvent polarity,"solvent density, g/ml",solvent SMILES,type of polymer,"molecular weight of polymer, g/mol",polymer molecular formula,monomer,monomer SMILES
+1-butanol_pvp_con5_loop6_colloidal.jpg,1butanol,pvp,colloidal,5.0,C4H10O,moderately polar,0.81,CCCCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+1-propanol_chloroform_pvp_con10_loop6_colloidal.jpg,chloroform,pvp,colloidal,10.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+13dioxolane_pcl_con5_loop2_colloidal.jpg,13dioxolane,pcl,colloidal,5.0,C3H6O2,polar aprotic,1.06,C1COCO1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+13dioxolane_ps_con10_loop4_colloidal.jpg,13dioxolane,ps,colloidal,10.0,C3H6O2,polar aprotic,1.06,C1COCO1,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+1butanol_pvp_con1_colloidal.jpg,1butanol,pvp,colloidal,1.0,C4H10O,moderately polar,0.81,CCCCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+1propanol_chloroform_pmma_con5_loop3_colloidal.jpg,chloroform,pmma,colloidal,5.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+2butanol_pvp_con1_20h_colloidal.jpg,2butanol,pvp,colloidal,1.0,C4H10O,polar protic,0.81,CCC(C)O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+acetone_pcl_con10_loop2_colloidal.jpg,acetone,pcl,colloidal,10.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+acetone_pcl_con1_colloidal.jpg,acetone,pcl,colloidal,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+acetonitrile_pmma_con10_powder_loop3_colloidal.jpg,acetonitrile,pmma,colloidal,10.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+acetonitrile_pvp_con1_colloidal.jpg,acetonitrile,pvp,colloidal,1.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+actone_pcl_con1_20h_colloidal.jpg,acetone,pcl,colloidal,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+benzylalcohol_pcl_con1_20h_lens_colloidal.jpg,benzylalcohol,pcl,colloidal,1.0,C7H8O,slightly polar,1.04,C1=CC=C(C=C1)CO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+chloroform_pvp_con5_loop5_colloidal.jpg,chloroform,pvp,colloidal,5.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+choloroform_ps_con10_loop4_colloidal.jpg,chloroform,ps,colloidal,10.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+dcm_pcl_con1_20h_colloidal.jpg,dcm,pcl,colloidal,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+dcm_ps_con10_loop4_colloidal.jpg,dcm,ps,colloidal,10.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+dcm_pvp_con1_20h_lens_colloidal.jpg,dcm,pvp,colloidal,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+DCM_pvp_con1_loop1_colloidal.jpg,dcm,pvp,colloidal,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_acetone_pcl_con10_loop2_colloidal.jpg,acetone,pcl,colloidal,10.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+dmso_acetone_pvp_con5_loop6_colloidal.jpg,acetone,pvp,colloidal,5.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+DMSO_Methanol_pvp_con1_loop0_colloidal.jpg,dmso,pvp,colloidal,1.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_methanol_pvp_con5_loop6_colloidal.jpg,dmso,pvp,colloidal,5.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_toluene_pvp_con10_loop5_colloidal.jpg,dmso,pvp,colloidal,10.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+ethanol_acetonitrile_pvp_con5_loop6_colloidal.jpg,acetonitrile,pvp,colloidal,5.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+ethanol_pvp_con1_20h_lens_colloidal.jpg,ethanol,pvp,colloidal,1.0,C2H6O,polar protic,0.79,CCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+Ethanol_pvp_con1_loop1_colloidal.jpg,ethanol,pvp,colloidal,1.0,C2H6O,polar protic,0.79,CCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+ethylacetate_pmma_con1_20h_lens_colloidal.jpg,ethylacetate,pmma,colloidal,1.0,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+ipa_pvp_con1_20h_colloidal.jpg,ipa,pvp,colloidal,1.0,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+ipa_pvp_con1_20h_lens_colloidal.jpg,ipa,pvp,colloidal,1.0,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+isopropylacetate_pmma_con5_powder_loop3_colloidal.jpg,isopropylacetate,pmma,colloidal,5.0,C5H10O2,slightly polar,0.87,CC(C)OC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+methanol_pvp_con10_loop6_colloidal.jpg,methanol,pvp,colloidal,10.0,CH4O,polar protic,0.79,CO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+methanol_pvp_con5_loop6_colloidal.jpg,methanol,pvp,colloidal,5.0,CH4O,polar protic,0.79,CO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+methylacetate_pmma_con1_20h_colloidal.jpg,methylacetate,pmma,colloidal,1.0,C3H6O2,slightly polar,0.93,CC(=O)OC,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pcl_acetone_con0.5_withlens_repeat_colloidal.jpg,acetone,pcl,colloidal,0.5,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_acetone_con0.5_withoutlens_repeat_colloidal.jpg,acetone,pcl,colloidal,0.5,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_dcm_con0.3_colloidal.jpg,dcm,pcl,colloidal,0.3,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_dcm_con0.7_colloidal.jpg,dcm,pcl,colloidal,0.7,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_dcm_con1_withlens_repeat_colloidal.jpg,dcm,pcl,colloidal,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_dcm_con1_withoutlens_repeat_colloidal.jpg,dcm,pcl,colloidal,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_toluene_con1_withlens_repeat_colloidal.jpg,toluene,pcl,colloidal,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_toluene_con1_withoutlens_repeat_colloidal.jpg,toluene,pcl,colloidal,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pdms_toluene_con0.5_withlens_repeat_colloidal.jpg,toluene,pdms,colloidal,0.5,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_toluene_con0.5_withoutlens_repeat_colloidal.jpg,toluene,pdms,colloidal,0.5,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_toluene_con1_withlens_repeat_colloidal.jpg,toluene,pdms,colloidal,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_toluene_con1_withoutlens_repeat_colloidal.jpg,toluene,pdms,colloidal,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+peg600_toluene_con0.5_withlens_repeat_colloidal.jpg,toluene,peg600,colloidal,0.5,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_toluene_con0.5_withoutlens_repeat_colloidal.jpg,toluene,peg600,colloidal,0.5,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+pmma_dcm_con1_withlens_repeat_colloidal.jpg,dcm,pmma,colloidal,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_dcm_con1_withoutlens_repeat_colloidal.jpg,dcm,pmma,colloidal,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_etoac_con0.3_withlens_repeat_colloidal.jpg,ethylacetate,pmma,colloidal,0.3,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_etoac_con0.3_withoutlens_repeat_colloidal.jpg,ethylacetate,pmma,colloidal,0.3,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+ps_dcm_con0.5_withlens_repeat_colloidal.jpg,dcm,ps,colloidal,0.5,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_dcm_con0.5_withoutlens_repeat_colloidal.jpg,dcm,ps,colloidal,0.5,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+pvp_dcm_con0.5_colloidal.jpg,dcm,pvp,colloidal,0.5,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_thf_con0.3_colloidal.jpg,thf,pvp,colloidal,0.3,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+water_pvp_con10_loop5_colloidal.jpg,water,pvp,colloidal,10.0,H2O,highly polar,1.0,O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+butylbenzoate_pvp_con1_insoluble.jpg,butylbenzoate,pvp,insoluble,1.0,C11H14O2,low polarity,1.01,CCCCOC(=O)C1=CC=CC=C1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+diethylether_pmma_con10_loop3_insoluble.jpg,diethylether,pmma,insoluble,10.0,C4H10O,slightly polar,0.71,CCOCC,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+diethylether_pvp_con1_20h_insoluble.jpg,diethylether,pvp,insoluble,1.0,C4H10O,slightly polar,0.71,CCOCC,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+diethylether_pvp_con1_20h_lens_insoluble.jpg,diethylether,pvp,insoluble,1.0,C4H10O,slightly polar,0.71,CCOCC,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_pmma_con5_loop3_insoluble.jpg,dmso,pmma,insoluble,5.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+dmso_ps_con10_loop4_insoluble.jpg,dmso,ps,insoluble,10.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ethyleneglycol_ps_con5_loop4_insoluble.jpg,ethyleneglycol,ps,insoluble,5.0,C2H6O2,polar,1.11,C(CO)O,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+heptane_pcl_con10_loop2_insoluble.jpg,heptane,pcl,insoluble,10.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+heptane_pmma_con10_loop3_insoluble.jpg,heptane,pmma,insoluble,10.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+Heptane_pvp_con1_loop1_insoluble.jpg,heptane,pvp,insoluble,1.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+methanol_pcl_con1_insoluble.jpg,methanol,pcl,insoluble,1.0,CH4O,polar protic,0.79,CO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+methanol_pmma_con5_loop3_insoluble.jpg,methanol,pmma,insoluble,5.0,CH4O,polar protic,0.79,CO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pcl_ethanol_con0.5_insoluble.jpg,ethanol,pcl,insoluble,0.5,C2H6O,polar protic,0.79,CCO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_ethanol_con0.7_insoluble.jpg,ethanol,pcl,insoluble,0.7,C2H6O,polar protic,0.79,CCO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_heptane_con0.3_insoluble.jpg,heptane,pcl,insoluble,0.3,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_heptane_con0.5_insoluble.jpg,heptane,pcl,insoluble,0.5,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_ipa_con0.7_insoluble.jpg,ipa,pcl,insoluble,0.7,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_water_con1_insoluble.jpg,water,pcl,insoluble,1.0,H2O,highly polar,1.0,O,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+peg10k_acetone_con0.3_insoluble.jpg,acetone,peg10k,insoluble,0.3,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_etoac_con0.1_insoluble.jpg,ethylacetate,peg10k,insoluble,0.1,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+pmma_ipa_con0.1_insoluble.jpg,ipa,pmma,insoluble,0.1,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+ps4ss_acetone_con0.5_insoluble.jpg,acetone,ps4ss,insoluble,0.5,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_ethanol_con0.3_insoluble.jpg,ethanol,ps4ss,insoluble,0.3,C2H6O,polar protic,0.79,CCO,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_ethanol_con1_insoluble.jpg,ethanol,ps4ss,insoluble,1.0,C2H6O,polar protic,0.79,CCO,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_etoac_con0.7_insoluble.jpg,ethylacetate,ps4ss,insoluble,0.7,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_heptane_con0.5_insoluble.jpg,heptane,ps4ss,insoluble,0.5,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_heptane_con0.7_insoluble.jpg,heptane,ps4ss,insoluble,0.7,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_ipa_con0.1_insoluble.jpg,ipa,ps4ss,insoluble,0.1,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_ipa_con0.3_insoluble.jpg,ipa,ps4ss,insoluble,0.3,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps_ethanol_con0.3_insoluble.jpg,ethanol,ps,insoluble,0.3,C2H6O,polar protic,0.79,CCO,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_ethanol_con1_insoluble.jpg,ethanol,ps,insoluble,1.0,C2H6O,polar protic,0.79,CCO,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_heptane_con0.3_insoluble.jpg,heptane,ps,insoluble,0.3,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_heptane_con0.5_insoluble.jpg,heptane,ps,insoluble,0.5,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_water_con0.7_insoluble.jpg,water,ps,insoluble,0.7,H2O,highly polar,1.0,O,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_water_con1_insoluble.jpg,water,ps,insoluble,1.0,H2O,highly polar,1.0,O,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+pva_acetone_con0.3_insoluble.jpg,acetone,pva,insoluble,0.3,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_dcm_con0.7_insoluble.jpg,dcm,pva,insoluble,0.7,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_ethanol_con0.1_insoluble.jpg,ethanol,pva,insoluble,0.1,C2H6O,polar protic,0.79,CCO,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_ethanol_con0.5_insoluble.jpg,ethanol,pva,insoluble,0.5,C2H6O,polar protic,0.79,CCO,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_ipa_con0.1_insoluble.jpg,ipa,pva,insoluble,0.1,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_water_con0.7_insoluble.jpg,water,pva,insoluble,0.7,H2O,highly polar,1.0,O,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_water_con1_insoluble.jpg,water,pva,insoluble,1.0,H2O,highly polar,1.0,O,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pvp_etoac_con0.3_insoluble.jpg,ethylacetate,pvp,insoluble,0.3,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_heptane_con0.1_insoluble.jpg,heptane,pvp,insoluble,0.1,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+Toluene_pvp_con1_loop1_insoluble.jpg,toluene,pvp,insoluble,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+water_pcl_con10_loop2_insoluble.jpg,water,pcl,insoluble,10.0,H2O,highly polar,1.0,O,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+water_pmma_con1_20h_insoluble.jpg,water,pmma,insoluble,1.0,H2O,highly polar,1.0,O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+water_pmma_con1_insoluble.jpg,water,pmma,insoluble,1.0,H2O,highly polar,1.0,O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+Acetone_pva_con1_loop1_partialsoluble.jpg,acetone,pva,partialsoluble,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+butylbenzoate_pmma_con1_gellike_20h_lens_partialsoluble.jpg,butylbenzoate,pmma,partialsoluble,1.0,C11H14O2,low polarity,1.01,CCCCOC(=O)C1=CC=CC=C1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+diethylether_pcl_con10_loop2_partialsoluble.jpg,diethylether,pcl,partialsoluble,10.0,C4H10O,slightly polar,0.71,CCOCC,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+dmso_acetone_ps_con5_loop4_partialsoluble.jpg,acetone,ps,partialsoluble,5.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+DMSO_Toluene_pva_con1_loop0_partialsoluble.jpg,dmso,pva,partialsoluble,1.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+isopropylacetate_pcl_con5_loop2_partialsoluble.jpg,isopropylacetate,pcl,partialsoluble,5.0,C5H10O2,slightly polar,0.87,CC(C)OC(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+isopropylacetate_pmma_con10_loop3_partialsoluble.jpg,isopropylacetate,pmma,partialsoluble,10.0,C5H10O2,slightly polar,0.87,CC(C)OC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+isopropylacetate_pmma_con5_loop3_partialsoluble.jpg,isopropylacetate,pmma,partialsoluble,5.0,C5H10O2,slightly polar,0.87,CC(C)OC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_ethanol_con0.5_partialsoluble.jpg,ethanol,pmma,partialsoluble,0.5,C2H6O,polar protic,0.79,CCO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_water_con0.3_partialsoluble.jpg,water,pmma,partialsoluble,0.3,H2O,highly polar,1.0,O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pvp_acetone_con0.3_partialsoluble.jpg,acetone,pvp,partialsoluble,0.3,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_acetone_con0.7_partialsoluble.jpg,acetone,pvp,partialsoluble,0.7,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_thf_con0.5_partialsoluble.jpg,thf,pvp,partialsoluble,0.5,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+thf_pvp_con1_gellike_partialsoluble.jpg,thf,pvp,partialsoluble,1.0,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pcl_etoac_con0.3_soluble.jpg,ethylacetate,pcl,soluble,0.3,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_thf_con1_soluble.jpg,thf,pcl,soluble,1.0,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pdms_etoac_con0.7_soluble.jpg,ethylacetate,pdms,soluble,0.7,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_heptane_con0.3_withlens_repeat_soluble.jpg,heptane,pdms,soluble,0.3,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+peg600_ethanol_con0.5_soluble.jpg,ethanol,peg600,soluble,0.5,C2H6O,polar protic,0.79,CCO,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_ethanol_con0.7_soluble.jpg,ethanol,peg600,soluble,0.7,C2H6O,polar protic,0.79,CCO,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_thf_con0.3_soluble.jpg,thf,peg600,soluble,0.3,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+pvp_ethanol_con0.1_soluble.jpg,ethanol,pvp,soluble,0.1,C2H6O,polar protic,0.79,CCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_ipa_con0.3_soluble.jpg,ipa,pvp,soluble,0.3,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+"1,3-Dioxolane_pvp_con1_loop0_colloidal.jpg",13dioxolane,pvp,colloidal,1.0,C3H6O2,polar aprotic,1.06,C1COCO1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+"1,3-Dioxolane_pvp_con1_loop1_colloidal.jpg",13dioxolane,pvp,colloidal,1.0,C3H6O2,polar aprotic,1.06,C1COCO1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+"1,3-Dioxolane_pvp_con5_loop6_colloidal.jpg",13dioxolane,pvp,colloidal,5.0,C3H6O2,polar aprotic,1.06,C1COCO1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+"1,4-dioxane_pcl_con1_colloidal.jpg",14dioxane,pcl,colloidal,1.0,C4H8O2,polar aprotic,1.03,C1COCCO1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+"1,4-dioxane_pmma_con1_20h_colloidal.jpg",14dioxane,pmma,colloidal,1.0,C4H8O2,polar aprotic,1.03,C1COCCO1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+"1,4dioxane_pcl_con1_20h_colloidal.jpg",14dioxane,pcl,colloidal,1.0,C4H8O2,polar aprotic,1.03,C1COCCO1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+"1,4dioxane_pcl_con1_20h_lens_colloidal.jpg",14dioxane,pcl,colloidal,1.0,C4H8O2,polar aprotic,1.03,C1COCCO1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+"1,4dioxane_pmma_con1_20h_lens_colloidal.jpg",14dioxane,pmma,colloidal,1.0,C4H8O2,polar aprotic,1.03,C1COCCO1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+"1,4dioxane_pvp_con1_20h_colloidal.jpg",14dioxane,pvp,colloidal,1.0,C4H8O2,polar aprotic,1.03,C1COCCO1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+"1,4dioxane_pvp_con1_20h_lens_colloidal.jpg",14dioxane,pvp,colloidal,1.0,C4H8O2,polar aprotic,1.03,C1COCCO1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+1-butanol_pvp_con10_loop6_colloidal.jpg,1butanol,pvp,colloidal,10.0,C4H10O,moderately polar,0.81,CCCCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+1-Butanol_pvp_con1_loop0_colloidal.jpg,1butanol,pvp,colloidal,1.0,C4H10O,moderately polar,0.81,CCCCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+1-Butanol_pvp_con1_loop1_colloidal.jpg,1butanol,pvp,colloidal,1.0,C4H10O,moderately polar,0.81,CCCCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+1-Propanol_Chloroform_pvp_con1_loop0_colloidal.jpg,chloroform,pvp,colloidal,1.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+1-Propanol_Chloroform_pvp_con1_loop1_colloidal.jpg,chloroform,pvp,colloidal,1.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+1-propanol_chloroform_pvp_con5_loop6_colloidal.jpg,chloroform,pvp,colloidal,5.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+1-propanol_pvp_con10_loop6_colloidal.jpg,1propanol,pvp,colloidal,10.0,C3H8O,polar protic,0.8,CCCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+1-Propanol_pvp_con1_loop0_colloidal.jpg,1propanol,pvp,colloidal,1.0,C3H8O,polar protic,0.8,CCCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+1-Propanol_pvp_con1_loop1_colloidal.jpg,1propanol,pvp,colloidal,1.0,C3H8O,polar protic,0.8,CCCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+1-propanol_pvp_con5_loop6_colloidal.jpg,1propanol,pvp,colloidal,5.0,C3H8O,polar protic,0.8,CCCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+13dioxolane_pcl_con10_loop2_colloidal.jpg,13dioxolane,pcl,colloidal,10.0,C3H6O2,polar aprotic,1.06,C1COCO1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+13dioxolane_pmma_con10_loop3_colloidal.jpg,13dioxolane,pmma,colloidal,10.0,C3H6O2,polar aprotic,1.06,C1COCO1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+13dioxolane_pmma_con5_loop3_colloidal.jpg,13dioxolane,pmma,colloidal,5.0,C3H6O2,polar aprotic,1.06,C1COCO1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+13dioxolane_ps_con5_loop4_colloidal.jpg,13dioxolane,ps,colloidal,5.0,C3H6O2,polar aprotic,1.06,C1COCO1,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+13dioxolane_pvp_con10_loop5_colloidal.jpg,13dioxolane,pvp,colloidal,10.0,C3H6O2,polar aprotic,1.06,C1COCO1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+1butanol_pvp_con10_loop5_colloidal.jpg,1butanol,pvp,colloidal,10.0,C4H10O,moderately polar,0.81,CCCCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+1butanol_pvp_con1_20h_colloidal.jpg,1butanol,pvp,colloidal,1.0,C4H10O,moderately polar,0.81,CCCCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+1butanol_pvp_con1_20h_lens_colloidal.jpg,1butanol,pvp,colloidal,1.0,C4H10O,moderately polar,0.81,CCCCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+1butanol_pvp_con5_loop5_colloidal.jpg,1butanol,pvp,colloidal,5.0,C4H10O,moderately polar,0.81,CCCCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+1propanol_chloroform_con5_loop5_colloidal.jpg,chloroform,pvp,colloidal,5.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+1propanol_chloroform_pcl_con10_loop2_colloidal.jpg,chloroform,pcl,colloidal,10.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+1propanol_chloroform_pcl_con5_loop2_colloidal.jpg,chloroform,pcl,colloidal,5.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+1propanol_chloroform_pmma_con10_loop3_colloidal.jpg,chloroform,pmma,colloidal,10.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+1propanol_chloroform_pvp_con10_loop5_colloidal.jpg,chloroform,pvp,colloidal,10.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+1propanol_pvp_con10_loop5_colloidal.jpg,1propanol,pvp,colloidal,10.0,C3H8O,polar protic,0.8,CCCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+1propanol_pvp_con5_loop5_colloidal.jpg,1propanol,pvp,colloidal,5.0,C3H8O,polar protic,0.8,CCCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+2butanol_pvp_con1_colloidal.jpg,2butanol,pvp,colloidal,1.0,C4H10O,polar protic,0.81,CCC(C)O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+acetone_pcl_con1_20h_lens_colloidal.jpg,acetone,pcl,colloidal,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+acetone_pmma_con1_20h_lens_colloidal.jpg,acetone,pmma,colloidal,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+acetone_pmma_con1_colloidal.jpg,acetone,pmma,colloidal,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+acetone_pmma_con5_loop3_colloidal.jpg,acetone,pmma,colloidal,5.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+Acetonitrile_Ethanol_pvp_con1_loop0_colloidal.jpg,acetonitrile,pvp,colloidal,1.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+Acetonitrile_Ethanol_pvp_con1_loop1_colloidal.jpg,acetonitrile,pvp,colloidal,1.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+acetonitrile_pcl_con1_20h_colloidal.jpg,acetonitrile,pcl,colloidal,1.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+acetonitrile_pcl_con1_20h_lens_colloidal.jpg,acetonitrile,pcl,colloidal,1.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+acetonitrile_pcl_con1_colloidal.jpg,acetonitrile,pcl,colloidal,1.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+acetonitrile_pcl_con5_loop2_colloidal.jpg,acetonitrile,pcl,colloidal,5.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+acetonitrile_pmma_con1_20h_colloidal.jpg,acetonitrile,pmma,colloidal,1.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+acetonitrile_pmma_con1_20h_lens_colloidal.jpg,acetonitrile,pmma,colloidal,1.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+acetonitrile_pmma_con1_colloidal.jpg,acetonitrile,pmma,colloidal,1.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+acetonitrile_pmma_con5_loop3_colloidal.jpg,acetonitrile,pmma,colloidal,5.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+acetonitrile_pvp_con10_loop5_colloidal.jpg,acetonitrile,pvp,colloidal,10.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+acetonitrile_pvp_con10_loop6_colloidal.jpg,acetonitrile,pvp,colloidal,10.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+acetonitrile_pvp_con1_20h_colloidal.jpg,acetonitrile,pvp,colloidal,1.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+acetonitrile_pvp_con1_20h_lens_colloidal.jpg,acetonitrile,pvp,colloidal,1.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+Acetonitrile_pvp_con1_loop1_colloidal.jpg,acetonitrile,pvp,colloidal,1.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+acetonitrile_pvp_con5_loop5_colloidal.jpg,acetonitrile,pvp,colloidal,5.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+benzylalcohol_pcl_con10_loop2_colloidal.jpg,benzylalcohol,pcl,colloidal,10.0,C7H8O,slightly polar,1.04,C1=CC=C(C=C1)CO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+benzylalcohol_pcl_con1_20h_colloidal.jpg,benzylalcohol,pcl,colloidal,1.0,C7H8O,slightly polar,1.04,C1=CC=C(C=C1)CO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+benzylalcohol_pcl_con1_colloidal.jpg,benzylalcohol,pcl,colloidal,1.0,C7H8O,slightly polar,1.04,C1=CC=C(C=C1)CO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+benzylalcohol_pcl_con5_loop2_colloidal.jpg,benzylalcohol,pcl,colloidal,5.0,C7H8O,slightly polar,1.04,C1=CC=C(C=C1)CO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+benzylalcohol_pmma_con1_20h_colloidal.jpg,benzylalcohol,pmma,colloidal,1.0,C7H8O,slightly polar,1.04,C1=CC=C(C=C1)CO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+benzylalcohol_pmma_con1_20h_lens_colloidal.jpg,benzylalcohol,pmma,colloidal,1.0,C7H8O,slightly polar,1.04,C1=CC=C(C=C1)CO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+benzylalcohol_pvp_con10_loop5_colloidal.jpg,benzylalcohol,pvp,colloidal,10.0,C7H8O,slightly polar,1.04,C1=CC=C(C=C1)CO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+benzylalcohol_pvp_con10_loop6_colloidal.jpg,benzylalcohol,pvp,colloidal,10.0,C7H8O,slightly polar,1.04,C1=CC=C(C=C1)CO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+benzylalcohol_pvp_con1_20h_colloidal.jpg,benzylalcohol,pvp,colloidal,1.0,C7H8O,slightly polar,1.04,C1=CC=C(C=C1)CO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+benzylalcohol_pvp_con1_colloidal.jpg,benzylalcohol,pvp,colloidal,1.0,C7H8O,slightly polar,1.04,C1=CC=C(C=C1)CO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+BenzylAlcohol_pvp_con1_loop0_colloidal.jpg,benzylalcohol,pvp,colloidal,1.0,C7H8O,slightly polar,1.04,C1=CC=C(C=C1)CO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+BenzylAlcohol_pvp_con1_loop1_colloidal.jpg,benzylalcohol,pvp,colloidal,1.0,C7H8O,slightly polar,1.04,C1=CC=C(C=C1)CO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+benzylalcohol_pvp_con5_loop5_colloidal.jpg,benzylalcohol,pvp,colloidal,5.0,C7H8O,slightly polar,1.04,C1=CC=C(C=C1)CO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+benzylalcohol_pvp_con5_loop6_colloidal.jpg,benzylalcohol,pvp,colloidal,5.0,C7H8O,slightly polar,1.04,C1=CC=C(C=C1)CO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+chloroform_pcl_con5_loop2_colloidal.jpg,chloroform,pcl,colloidal,5.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+chloroform_pmma_con5_loop3_colloidal.jpg,chloroform,pmma,colloidal,5.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+chloroform_ps_con5_loop4_colloidal.jpg,chloroform,ps,colloidal,5.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+Chloroform_pvp_con1_loop0_colloidal.jpg,chloroform,pvp,colloidal,1.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+Chloroform_pvp_con1_loop1_colloidal.jpg,chloroform,pvp,colloidal,1.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+choloroform_pcl_con10_loop2_colloidal.jpg,chloroform,pcl,colloidal,10.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+choloroform_pmma_con10_loop3_colloidal.jpg,chloroform,pmma,colloidal,10.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+choloroform_pvp_con10_loop5_colloidal.jpg,chloroform,pvp,colloidal,10.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+choloroform_pvp_con10_loop6_colloidal.jpg,chloroform,pvp,colloidal,10.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dcm_diethylether_pcl_con10_loop2_colloidal.jpg,dcm,pcl,colloidal,10.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+dcm_diethylether_pcl_con5_loop2_colloidal.jpg,dcm,pcl,colloidal,5.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+dcm_diethylether_pmma_con5_loop3_colloidal.jpg,dcm,pmma,colloidal,5.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+dcm_diethylether_ps_con10_loop4_colloidal.jpg,dcm,ps,colloidal,10.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+dcm_diethylether_ps_con5_loop4_colloidal.jpg,dcm,ps,colloidal,5.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+dcm_pcl_con10_loop2_colloidal.jpg,dcm,pcl,colloidal,10.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+dcm_pcl_con5_loop2_colloidal.jpg,dcm,pcl,colloidal,5.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+dcm_pmma_con10_loop3_colloidal.jpg,dcm,pmma,colloidal,10.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+dcm_pmma_con1_20h_colloidal.jpg,dcm,pmma,colloidal,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+dcm_pmma_con1_colloidal.jpg,dcm,pmma,colloidal,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+dcm_pmma_con5_loop3_colloidal.jpg,dcm,pmma,colloidal,5.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+dcm_pvp_con10_loop6_colloidal.jpg,dcm,pvp,colloidal,10.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dcm_pvp_con1_20h_colloidal.jpg,dcm,pvp,colloidal,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dcm_pvp_con1_colloidal.jpg,dcm,pvp,colloidal,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+DCM_pvp_con1_loop0_colloidal.jpg,dcm,pvp,colloidal,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dcm_pvp_con5_loop5_colloidal.jpg,dcm,pvp,colloidal,5.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dcm_pvp_con5_loop6_colloidal.jpg,dcm,pvp,colloidal,5.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_acetone_pcl_con5_loop2_colloidal.jpg,acetone,pcl,colloidal,5.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+dmso_acetone_pvp_con10_loop5_colloidal.jpg,acetone,pvp,colloidal,10.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_acetone_pvp_con10_loop6_colloidal.jpg,acetone,pvp,colloidal,10.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+DMSO_Acetone_pvp_con1_loop1_colloidal.jpg,acetone,pvp,colloidal,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_acetone_pvp_con5_loop5_colloidal.jpg,acetone,pvp,colloidal,5.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_acetonitrile_pvp_con10_loop5_colloidal.jpg,acetonitrile,pvp,colloidal,10.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_acetonitrile_pvp_con10_loop6_colloidal.jpg,acetonitrile,pvp,colloidal,10.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+DMSO_Acetonitrile_pvp_con1_loop0_colloidal.jpg,acetonitrile,pvp,colloidal,1.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_acetonitrile_pvp_con5_loop5_colloidal.jpg,acetonitrile,pvp,colloidal,5.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_acetonitrile_pvp_con5_loop6_colloidal.jpg,acetonitrile,pvp,colloidal,5.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_con5_loop5_colloidal.jpg,dmso,pvp,colloidal,5.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_methanol_pvp_con10_loop5_colloidal.jpg,dmso,pvp,colloidal,10.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_methanol_pvp_con10_loop6_colloidal.jpg,dmso,pvp,colloidal,10.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+DMSO_Methanol_pvp_con1_loop1_colloidal.jpg,dmso,pvp,colloidal,1.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_pvp_con10_loop6_colloidal.jpg,dmso,pvp,colloidal,10.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+DMSO_pvp_con1_loop0_colloidal.jpg,dmso,pvp,colloidal,1.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+DMSO_pvp_con1_loop1_colloidal.jpg,dmso,pvp,colloidal,1.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_pvp_con5_loop6_colloidal.jpg,dmso,pvp,colloidal,5.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_toleuen_acetone_pcl_con10_loop2_colloidal.jpg,acetone,pcl,colloidal,10.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+dmso_toleuen_acetone_pmma_con10_loop3_colloidal.jpg,acetone,pmma,colloidal,10.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+dmso_toleuen_acetone_pvp_con10_loop5_colloidal.jpg,acetone,pvp,colloidal,10.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_toluene_acetone_pcl_con5_loop2_colloidal.jpg,acetone,pcl,colloidal,5.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+dmso_toluene_acetone_pvp_con5_loop5_colloidal.jpg,acetone,pvp,colloidal,5.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_toluene_acetone_pvp_con5_loop6_colloidal.jpg,acetone,pvp,colloidal,5.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_toluene_pcl_con5_loop2_colloidal.jpg,dmso,pcl,colloidal,5.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+DMSO_Toluene_pvp_con1_loop0_colloidal.jpg,dmso,pvp,colloidal,1.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+DMSO_Toluene_pvp_con1_loop1_colloidal.jpg,dmso,pvp,colloidal,1.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_toluene_pvp_con5_loop5_colloidal.jpg,dmso,pvp,colloidal,5.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_toluene_pvp_con5_loop6_colloidal.jpg,dmso,pvp,colloidal,5.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+ethanol_acetonitrile_pcl_con10_loop2_colloidal.jpg,acetonitrile,pcl,colloidal,10.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+ethanol_acetonitrile_pcl_con5_loop2_colloidal.jpg,acetonitrile,pcl,colloidal,5.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+ethanol_acetonitrile_pmma_con10_loop3_colloidal.jpg,acetonitrile,pmma,colloidal,10.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+ethanol_acetonitrile_pmma_con5_loop3_colloidal.jpg,acetonitrile,pmma,colloidal,5.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+ethanol_acetonitrile_pvp_con10_loop5_colloidal.jpg,acetonitrile,pvp,colloidal,10.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+ethanol_acetonitrile_pvp_con10_loop6_colloidal.jpg,acetonitrile,pvp,colloidal,10.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+ethanol_acetonitrile_pvp_con5_loop5_colloidal.jpg,acetonitrile,pvp,colloidal,5.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+ethanol_pvp_con10_loop5_colloidal.jpg,ethanol,pvp,colloidal,10.0,C2H6O,polar protic,0.79,CCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+ethanol_pvp_con1_20h_colloidal.jpg,ethanol,pvp,colloidal,1.0,C2H6O,polar protic,0.79,CCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+Ethanol_pvp_con1_loop0_colloidal.jpg,ethanol,pvp,colloidal,1.0,C2H6O,polar protic,0.79,CCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+ethanol_pvp_con5_loop5_colloidal.jpg,ethanol,pvp,colloidal,5.0,C2H6O,polar protic,0.79,CCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+ethanol_pvp_con5_loop6_colloidal.jpg,ethanol,pvp,colloidal,5.0,C2H6O,polar protic,0.79,CCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+ethylacetate_pcl_con1_20h_colloidal.jpg,ethylacetate,pcl,colloidal,1.0,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+ethylacetate_pcl_con1_20h_lens_colloidal.jpg,ethylacetate,pcl,colloidal,1.0,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+ethylacetate_pcl_con1_colloidal.jpg,ethylacetate,pcl,colloidal,1.0,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+ethylacetate_pmma_con1_20h_colloidal.jpg,ethylacetate,pmma,colloidal,1.0,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+ethylacetate_pmma_con1_colloidal.jpg,ethylacetate,pmma,colloidal,1.0,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+ethyleneglycol_pvp_con10_loop5_colloidal.jpg,ethyleneglycol,pvp,colloidal,10.0,C2H6O2,polar,1.11,C(CO)O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+ethyleneglycol_pvp_con5_loop5_colloidal.jpg,ethyleneglycol,pvp,colloidal,5.0,C2H6O2,polar,1.11,C(CO)O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+Ethylene_Glycol_pvp_con1_loop0_colloidal.jpg,ethyleneglycol,pvp,colloidal,1.0,C2H6O2,polar,1.11,C(CO)O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+Ethylene_Glycol_pvp_con1_loop1_colloidal.jpg,ethyleneglycol,pvp,colloidal,1.0,C2H6O2,polar,1.11,C(CO)O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+ipa_pvp_con1_colloidal.jpg,ipa,pvp,colloidal,1.0,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+methanol_pvp_con10_loop5_colloidal.jpg,methanol,pvp,colloidal,10.0,CH4O,polar protic,0.79,CO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+methanol_pvp_con1_20h_colloidal.jpg,methanol,pvp,colloidal,1.0,CH4O,polar protic,0.79,CO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+methanol_pvp_con1_20h_lens_colloidal.jpg,methanol,pvp,colloidal,1.0,CH4O,polar protic,0.79,CO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+methanol_pvp_con1_colloidal.jpg,methanol,pvp,colloidal,1.0,CH4O,polar protic,0.79,CO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+Methanol_pvp_con1_loop0_colloidal.jpg,methanol,pvp,colloidal,1.0,CH4O,polar protic,0.79,CO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+Methanol_pvp_con1_loop1_colloidal.jpg,methanol,pvp,colloidal,1.0,CH4O,polar protic,0.79,CO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+methanol_pvp_con5_loop5_colloidal.jpg,methanol,pvp,colloidal,5.0,CH4O,polar protic,0.79,CO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+methylacetate_pcl_con1_colloidal.jpg,methylacetate,pcl,colloidal,1.0,C3H6O2,slightly polar,0.93,CC(=O)OC,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_acetone_con0.3_withlens_repeat_colloidal.jpg,acetone,pcl,colloidal,0.3,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_acetone_con0.3_withoutlens_repeat_colloidal.jpg,acetone,pcl,colloidal,0.3,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_acetone_con0.7_colloidal.jpg,acetone,pcl,colloidal,0.7,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_acetone_con1_colloidal.jpg,acetone,pcl,colloidal,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_dcm_con0.5_colloidal.jpg,dcm,pcl,colloidal,0.5,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_etoac_con0.5_colloidal.jpg,ethylacetate,pcl,colloidal,0.5,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_toluene_con0.1_withlens_repeat_colloidal.jpg,toluene,pcl,colloidal,0.1,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_toluene_con0.1_withoutlens_repeat_colloidal.jpg,toluene,pcl,colloidal,0.1,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pdms_toluene_con0.1_withlens_repeat_colloidal.jpg,toluene,pdms,colloidal,0.1,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_toluene_con0.1_withoutlens_repeat_colloidal.jpg,toluene,pdms,colloidal,0.1,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_toluene_con0.3_withlens_repeat_colloidal.jpg,toluene,pdms,colloidal,0.3,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_toluene_con0.3_withoutlens_repeat_colloidal.jpg,toluene,pdms,colloidal,0.3,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+peg10k_dcm_con0.3_colloidal.jpg,dcm,peg10k,colloidal,0.3,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg600_acetone_con0.3_colloidal.jpg,acetone,peg600,colloidal,0.3,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_dcm_con0.1_withlens_repeat_colloidal.jpg,dcm,peg600,colloidal,0.1,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_dcm_con0.1_withoutlens_repeat_colloidal.jpg,dcm,peg600,colloidal,0.1,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_toluene_con0.3_withlens_repeat_colloidal.jpg,toluene,peg600,colloidal,0.3,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_toluene_con0.3_withoutlens_repeat_colloidal.jpg,toluene,peg600,colloidal,0.3,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_toluene_con0.7_withlens_repeat_colloidal.jpg,toluene,peg600,colloidal,0.7,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_toluene_con1_withlens_repeat_colloidal.jpg,toluene,peg600,colloidal,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_toluene_con1_withoutlens_repeat_colloidal.jpg,toluene,peg600,colloidal,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+pmma_acetone_con0.1_colloidal.jpg,acetone,pmma,colloidal,0.1,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_acetone_con0.3_colloidal.jpg,acetone,pmma,colloidal,0.3,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_acetone_con0.5_colloidal.jpg,acetone,pmma,colloidal,0.5,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_acetone_con0.7_colloidal.jpg,acetone,pmma,colloidal,0.7,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_acetone_con1_colloidal.jpg,acetone,pmma,colloidal,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_dcm_con0.3_withlens_repeat_colloidal.jpg,dcm,pmma,colloidal,0.3,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_dcm_con0.3_withoutlens_repeat_colloidal.jpg,dcm,pmma,colloidal,0.3,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_dcm_con0.5_colloidal.jpg,dcm,pmma,colloidal,0.5,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_dcm_con0.7_colloidal.jpg,dcm,pmma,colloidal,0.7,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_etoac_con0.7_withlens_repeat_colloidal.jpg,ethylacetate,pmma,colloidal,0.7,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_etoac_con0.7_withoutlens_repeat_colloidal.jpg,ethylacetate,pmma,colloidal,0.7,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_etoac_con1_colloidal.jpg,ethylacetate,pmma,colloidal,1.0,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_thf_con0.5_colloidal.jpg,thf,pmma,colloidal,0.5,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_thf_con0.7_colloidal.jpg,thf,pmma,colloidal,0.7,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_thf_con1_colloidal.jpg,thf,pmma,colloidal,1.0,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_toluene_con0.1_withlens_repeat_colloidal.jpg,toluene,pmma,colloidal,0.1,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_toluene_con0.1_withoutlens_repeat_colloidal.jpg,toluene,pmma,colloidal,0.1,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_toluene_con0.5_withlens_repeat_colloidal.jpg,toluene,pmma,colloidal,0.5,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_toluene_con0.5_withoutlens_repeat_colloidal.jpg,toluene,pmma,colloidal,0.5,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_toluene_con0.7_withlens_repeat_colloidal.jpg,toluene,pmma,colloidal,0.7,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_toluene_con0.7_withoutlens_repeat_colloidal.jpg,toluene,pmma,colloidal,0.7,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+ps4ss_water_con0.5_withlens_repeat_colloidal.jpg,water,ps4ss,colloidal,0.5,H2O,highly polar,1.0,O,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_water_con0.5_withoutlens_repeat_colloidal.jpg,water,ps4ss,colloidal,0.5,H2O,highly polar,1.0,O,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_water_con0.7_colloidal.jpg,water,ps4ss,colloidal,0.7,H2O,highly polar,1.0,O,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps_dcm_con0.1_colloidal.jpg,dcm,ps,colloidal,0.1,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_dcm_con0.3_colloidal.jpg,dcm,ps,colloidal,0.3,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_dcm_con0.7_colloidal.jpg,dcm,ps,colloidal,0.7,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_dcm_con1_colloidal.jpg,dcm,ps,colloidal,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_etoac_con0.3_colloidal.jpg,ethylacetate,ps,colloidal,0.3,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_etoac_con0.5_colloidal.jpg,ethylacetate,ps,colloidal,0.5,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_etoac_con1_colloidal.jpg,ethylacetate,ps,colloidal,1.0,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_thf_con0.1_colloidal.jpg,thf,ps,colloidal,0.1,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_thf_con0.3_colloidal.jpg,thf,ps,colloidal,0.3,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_thf_con0.5_colloidal.jpg,thf,ps,colloidal,0.5,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_thf_con0.7_colloidal.jpg,thf,ps,colloidal,0.7,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_thf_con1_colloidal.jpg,thf,ps,colloidal,1.0,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_toluene_con0.1_colloidal.jpg,toluene,ps,colloidal,0.1,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_toluene_con0.5_colloidal.jpg,toluene,ps,colloidal,0.5,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_toluene_con0.7_colloidal.jpg,toluene,ps,colloidal,0.7,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_toluene_con1_colloidal.jpg,toluene,ps,colloidal,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+pvp_dcm_con0.3_colloidal.jpg,dcm,pvp,colloidal,0.3,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_dcm_con1_colloidal.jpg,dcm,pvp,colloidal,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_ethanol_con0.3_colloidal.jpg,ethanol,pvp,colloidal,0.3,C2H6O,polar protic,0.79,CCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_ethanol_con0.5_colloidal.jpg,ethanol,pvp,colloidal,0.5,C2H6O,polar protic,0.79,CCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_ethanol_con0.7_colloidal.jpg,ethanol,pvp,colloidal,0.7,C2H6O,polar protic,0.79,CCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_ethanol_con1_colloidal.jpg,ethanol,pvp,colloidal,1.0,C2H6O,polar protic,0.79,CCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_ipa_con0.5_withlens_repeat_colloidal.jpg,ipa,pvp,colloidal,0.5,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_ipa_con0.5_withoutlens_repeat_colloidal.jpg,ipa,pvp,colloidal,0.5,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_water_con0.3_withlens_repeat_colloidal.jpg,water,pvp,colloidal,0.3,H2O,highly polar,1.0,O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_water_con0.3_withoutlens_repeat_colloidal.jpg,water,pvp,colloidal,0.3,H2O,highly polar,1.0,O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_water_con0.5_colloidal.jpg,water,pvp,colloidal,0.5,H2O,highly polar,1.0,O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_water_con0.7_colloidal.jpg,water,pvp,colloidal,0.7,H2O,highly polar,1.0,O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_water_con1_colloidal.jpg,water,pvp,colloidal,1.0,H2O,highly polar,1.0,O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+thf_pcl_con1_20h_colloidal.jpg,thf,pcl,colloidal,1.0,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+thf_pcl_con1_20h_lens_colloidal.jpg,thf,pcl,colloidal,1.0,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+thf_pmma_con1_20h_colloidal.jpg,thf,pmma,colloidal,1.0,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+thf_pmma_con1_colloidal.jpg,thf,pmma,colloidal,1.0,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+toluene_heptane_ps_con10_loop4_colloidal.jpg,toluene,ps,colloidal,10.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+toluene_heptane_ps_con5_loop4_colloidal.jpg,toluene,ps,colloidal,5.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+toluene_pcl_con10_loop2_colloidal.jpg,toluene,pcl,colloidal,10.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+toluene_pcl_con1_20h_colloidal.jpg,toluene,pcl,colloidal,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+toluene_pcl_con1_colloidal.jpg,toluene,pcl,colloidal,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+toluene_pcl_con5_loop2_colloidal.jpg,toluene,pcl,colloidal,5.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+toluene_pmma_con10_loop3_colloidal.jpg,toluene,pmma,colloidal,10.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+toluene_pmma_con1_20h_colloidal.jpg,toluene,pmma,colloidal,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+toluene_pmma_con1_20h_lens_colloidal.jpg,toluene,pmma,colloidal,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+toluene_pmma_con5_loop3_colloidal.jpg,toluene,pmma,colloidal,5.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+toluene_ps_con5_loop4_colloidal.jpg,toluene,ps,colloidal,5.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+water_pvp_con10_loop6_colloidal.jpg,water,pvp,colloidal,10.0,H2O,highly polar,1.0,O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+Water_pvp_con1_loop0_colloidal.jpg,water,pvp,colloidal,1.0,H2O,highly polar,1.0,O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+Water_pvp_con1_loop1_colloidal.jpg,water,pvp,colloidal,1.0,H2O,highly polar,1.0,O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+1-Butanol_pva_con1_loop0_insoluble.jpg,1butanol,pva,insoluble,1.0,C4H10O,moderately polar,0.81,CCCCO,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+1-Butanol_pva_con1_loop1_insoluble.jpg,1butanol,pva,insoluble,1.0,C4H10O,moderately polar,0.81,CCCCO,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+1-Propanol_Chloroform_pva_con1_loop0_insoluble.jpg,chloroform,pva,insoluble,1.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+1-Propanol_Chloroform_pva_con1_loop1_insoluble.jpg,chloroform,pva,insoluble,1.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+1-Propanol_pva_con1_loop1_insoluble.jpg,1propanol,pva,insoluble,1.0,C3H8O,polar protic,0.8,CCCO,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+1butanol_pcl_con10_loop2_insoluble.jpg,1butanol,pcl,insoluble,10.0,C4H10O,moderately polar,0.81,CCCCO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+1butanol_pcl_con1_20h_insoluble.jpg,1butanol,pcl,insoluble,1.0,C4H10O,moderately polar,0.81,CCCCO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+1butanol_pcl_con1_20h_lens_insoluble.jpg,1butanol,pcl,insoluble,1.0,C4H10O,moderately polar,0.81,CCCCO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+1butanol_pcl_con5_loop2_insoluble.jpg,1butanol,pcl,insoluble,5.0,C4H10O,moderately polar,0.81,CCCCO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+1butanol_pmma_con10_loop3_insoluble.jpg,1butanol,pmma,insoluble,10.0,C4H10O,moderately polar,0.81,CCCCO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+1butanol_ps_con10_loop4_insoluble.jpg,1butanol,ps,insoluble,10.0,C4H10O,moderately polar,0.81,CCCCO,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+1butanol_ps_con5_loop4_insoluble.jpg,1butanol,ps,insoluble,5.0,C4H10O,moderately polar,0.81,CCCCO,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+1propanol_pcl_con10_loop2_insoluble.jpg,1propanol,pcl,insoluble,10.0,C3H8O,polar protic,0.8,CCCO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+1propanol_pcl_con5_loop2_insoluble.jpg,1propanol,pcl,insoluble,5.0,C3H8O,polar protic,0.8,CCCO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+1propanol_pmma_con10_loop3_insoluble.jpg,1propanol,pmma,insoluble,10.0,C3H8O,polar protic,0.8,CCCO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+1propanol_ps_con10_loop4_insoluble.jpg,1propanol,ps,insoluble,10.0,C3H8O,polar protic,0.8,CCCO,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+1propanol_ps_con5_loop4_insoluble.jpg,1propanol,ps,insoluble,5.0,C3H8O,polar protic,0.8,CCCO,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+2butanol_pcl_con1_20h_insoluble.jpg,2butanol,pcl,insoluble,1.0,C4H10O,polar protic,0.81,CCC(C)O,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+2butanol_pmma_con1_insoluble.jpg,2butanol,pmma,insoluble,1.0,C4H10O,polar protic,0.81,CCC(C)O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+Acetonitrile_Ethanol_pva_con1_loop0_insoluble.jpg,acetonitrile,pva,insoluble,1.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+Acetonitrile_Ethanol_pva_con1_loop1_insoluble.jpg,acetonitrile,pva,insoluble,1.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+acetonitrile_ps_con10_loop4_insoluble.jpg,acetonitrile,ps,insoluble,10.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+acetonitrile_ps_con5_loop4_insoluble.jpg,acetonitrile,ps,insoluble,5.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+Acetonitrile_pva_con1_loop0_insoluble.jpg,acetonitrile,pva,insoluble,1.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+Acetonitrile_pva_con1_loop1_insoluble.jpg,acetonitrile,pva,insoluble,1.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+benzylalcohol_pmma_con1_colloidal_gellike_insoluble.jpg,benzylalcohol,pmma,insoluble,1.0,C7H8O,slightly polar,1.04,C1=CC=C(C=C1)CO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+butylbenzoate_pcl_con1_insoluble.jpg,butylbenzoate,pcl,insoluble,1.0,C11H14O2,low polarity,1.01,CCCCOC(=O)C1=CC=CC=C1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+butylbenzoate_pvp_con1_20h_insoluble.jpg,butylbenzoate,pvp,insoluble,1.0,C11H14O2,low polarity,1.01,CCCCOC(=O)C1=CC=CC=C1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+butylbenzoate_pvp_con1_20h_lens_insoluble.jpg,butylbenzoate,pvp,insoluble,1.0,C11H14O2,low polarity,1.01,CCCCOC(=O)C1=CC=CC=C1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+Chloroform_pva_con1_loop0_insoluble.jpg,chloroform,pva,insoluble,1.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+Chloroform_pva_con1_loop1_insoluble.jpg,chloroform,pva,insoluble,1.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+DCM_pva_con1_loop0_insoluble.jpg,dcm,pva,insoluble,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+DCM_pva_con1_loop1_insoluble.jpg,dcm,pva,insoluble,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+dietheylether_pcl_con1_insoluble.jpg,diethylether,pcl,insoluble,1.0,C4H10O,slightly polar,0.71,CCOCC,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+diethylether_pmma_con1_insoluble.jpg,diethylether,pmma,insoluble,1.0,C4H10O,slightly polar,0.71,CCOCC,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+diethylether_pmma_con5_loop3_insoluble.jpg,diethylether,pmma,insoluble,5.0,C4H10O,slightly polar,0.71,CCOCC,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+diethylether_pvp_con1_insoluble.jpg,diethylether,pvp,insoluble,1.0,C4H10O,slightly polar,0.71,CCOCC,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+Diethylethylether_pva_con1_loop0_insoluble.jpg,diethylether,pva,insoluble,1.0,C4H10O,slightly polar,0.71,CCOCC,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+Diethylethylether_pva_con1_loop1_insoluble.jpg,diethylether,pva,insoluble,1.0,C4H10O,slightly polar,0.71,CCOCC,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+Diethylethylether_pvp_con1_loop0_insoluble.jpg,diethylether,pvp,insoluble,1.0,C4H10O,slightly polar,0.71,CCOCC,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+Diethylethylether_pvp_con1_loop1_insoluble.jpg,diethylether,pvp,insoluble,1.0,C4H10O,slightly polar,0.71,CCOCC,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_ps_con5_loop4_insoluble.jpg,dmso,ps,insoluble,5.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ethanol_acetonitrile_ps_con10_loop4_insoluble.jpg,acetonitrile,ps,insoluble,10.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ethanol_acetonitrile_ps_con5_loop4_insoluble.jpg,acetonitrile,ps,insoluble,5.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ethanol_pcl_con10_loop2_insoluble.jpg,ethanol,pcl,insoluble,10.0,C2H6O,polar protic,0.79,CCO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+ethanol_pcl_con1_20h_lens_insoluble.jpg,ethanol,pcl,insoluble,1.0,C2H6O,polar protic,0.79,CCO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+ethanol_pcl_con1_insoluble.jpg,ethanol,pcl,insoluble,1.0,C2H6O,polar protic,0.79,CCO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+ethanol_ps_con10_loop4_insoluble.jpg,ethanol,ps,insoluble,10.0,C2H6O,polar protic,0.79,CCO,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ethanol_ps_con5_loop4_insoluble.jpg,ethanol,ps,insoluble,5.0,C2H6O,polar protic,0.79,CCO,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+Ethanol_pva_con1_loop0_insoluble.jpg,ethanol,pva,insoluble,1.0,C2H6O,polar protic,0.79,CCO,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+ethyleneglycol_pcl_con10_loop2_insoluble.jpg,ethyleneglycol,pcl,insoluble,10.0,C2H6O2,polar,1.11,C(CO)O,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+ethyleneglycol_pcl_con5_loop2_insoluble.jpg,ethyleneglycol,pcl,insoluble,5.0,C2H6O2,polar,1.11,C(CO)O,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+ethyleneglycol_pmma_con10_loop3_insoluble.jpg,ethyleneglycol,pmma,insoluble,10.0,C2H6O2,polar,1.11,C(CO)O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+ethyleneglycol_pmma_con5_loop3_insoluble.jpg,ethyleneglycol,pmma,insoluble,5.0,C2H6O2,polar,1.11,C(CO)O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+ethyleneglycol_ps_con10_loop4_insoluble.jpg,ethyleneglycol,ps,insoluble,10.0,C2H6O2,polar,1.11,C(CO)O,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+heptane_pcl_con1_20h_lens_insoluble.jpg,heptane,pcl,insoluble,1.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+heptane_pcl_con1_insoluble.jpg,heptane,pcl,insoluble,1.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+heptane_pcl_con5_loop2_insoluble.jpg,heptane,pcl,insoluble,5.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+heptane_pmma_con1_20h_insoluble.jpg,heptane,pmma,insoluble,1.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+heptane_pmma_con1_20h_lens_insoluble.jpg,heptane,pmma,insoluble,1.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+heptane_pmma_con1_insoluble.jpg.jpg,heptane,pmma,insoluble,1.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+heptane_pmma_con5_loop3_insoluble.jpg,heptane,pmma,insoluble,5.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+Heptane_pva_con1_loop0_insoluble.jpg,heptane,pva,insoluble,1.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+Heptane_pva_con1_loop1_insoluble.jpg,heptane,pva,insoluble,1.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+heptane_pvp_con1_20h_insoluble.jpg,heptane,pvp,insoluble,1.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+heptane_pvp_con1_20h_lens_insoluble.jpg,heptane,pvp,insoluble,1.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+heptane_pvp_con1_insoluble.jpg,heptane,pvp,insoluble,1.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+Heptane_pvp_con1_loop0_insoluble.jpg,heptane,pvp,insoluble,1.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+ipa_pcl_con1_20h_insoluble.jpg,ipa,pcl,insoluble,1.0,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+ipa_pcl_con1_20h_lens_insoluble.jpg,ipa,pcl,insoluble,1.0,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+ipa_pcl_con1_insoluble.jpg,ipa,pcl,insoluble,1.0,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+Iso-Propyl_Acetate_pvp_con1_loop1_insoluble.jpg,isopropylacetate,pvp,insoluble,1.0,C5H10O2,slightly polar,0.87,CC(C)OC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+methanol_pcl_con1_20h_insoluble.jpg,methanol,pcl,insoluble,1.0,CH4O,polar protic,0.79,CO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+methanol_pcl_con1_20h_lens_insoluble.jpg,methanol,pcl,insoluble,1.0,CH4O,polar protic,0.79,CO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+methanol_pcl_con5_loop2_insoluble.jpg,methanol,pcl,insoluble,5.0,CH4O,polar protic,0.79,CO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+methanol_pmma_con10_loop3_insoluble.jpg,methanol,pmma,insoluble,10.0,CH4O,polar protic,0.79,CO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+methanol_ps_con10_loop4_insoluble.jpg,methanol,ps,insoluble,10.0,CH4O,polar protic,0.79,CO,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+methanol_ps_con5_loop4_insoluble.jpg,methanol,ps,insoluble,5.0,CH4O,polar protic,0.79,CO,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+pcl_ethanol_con0.1_insoluble.jpg,ethanol,pcl,insoluble,0.1,C2H6O,polar protic,0.79,CCO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_ethanol_con0.3_insoluble.jpg,ethanol,pcl,insoluble,0.3,C2H6O,polar protic,0.79,CCO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_ethanol_con1_insoluble.jpg,ethanol,pcl,insoluble,1.0,C2H6O,polar protic,0.79,CCO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_heptane_con0.1_insoluble.jpg,heptane,pcl,insoluble,0.1,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_heptane_con1_insoluble.jpg,heptane,pcl,insoluble,1.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_ipa_con0.1_insoluble.jpg,ipa,pcl,insoluble,0.1,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_ipa_con0.3_insoluble.jpg,ipa,pcl,insoluble,0.3,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_ipa_con1_insoluble.jpg,ipa,pcl,insoluble,1.0,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_water_con0.1_insoluble.jpg,water,pcl,insoluble,0.1,H2O,highly polar,1.0,O,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_water_con0.3_insoluble.jpg,water,pcl,insoluble,0.3,H2O,highly polar,1.0,O,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_water_con0.5_insoluble.jpg,water,pcl,insoluble,0.5,H2O,highly polar,1.0,O,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_water_con0.7_insoluble.jpg,water,pcl,insoluble,0.7,H2O,highly polar,1.0,O,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pdms_ipa_con0.1_insoluble.jpg,ipa,pdms,insoluble,0.1,C3H8O,polar protic,0.79,CC(C)O,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_ipa_con0.3_insoluble.jpg,ipa,pdms,insoluble,0.3,C3H8O,polar protic,0.79,CC(C)O,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_ipa_con0.7_insoluble.jpg,ipa,pdms,insoluble,0.7,C3H8O,polar protic,0.79,CC(C)O,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_water_con0.1_insoluble.jpg,water,pdms,insoluble,0.1,H2O,highly polar,1.0,O,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_water_con0.3_insoluble.jpg,water,pdms,insoluble,0.3,H2O,highly polar,1.0,O,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_water_con0.5_insoluble.jpg,water,pdms,insoluble,0.5,H2O,highly polar,1.0,O,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_water_con0.7_insoluble.jpg,water,pdms,insoluble,0.7,H2O,highly polar,1.0,O,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_water_con1_insoluble.jpg,water,pdms,insoluble,1.0,H2O,highly polar,1.0,O,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+peg10k_acetone_con0.1_insoluble.jpg,acetone,peg10k,insoluble,0.1,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_acetone_con0.7_insoluble.jpg,acetone,peg10k,insoluble,0.7,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_acetone_con1_insoluble.jpg,acetone,peg10k,insoluble,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_ethanol_con0.3_insoluble.jpg,ethanol,peg10k,insoluble,0.3,C2H6O,polar protic,0.79,CCO,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_ethanol_con0.5_insoluble.jpg,ethanol,peg10k,insoluble,0.5,C2H6O,polar protic,0.79,CCO,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_ethanol_con1_insoluble.jpg,ethanol,peg10k,insoluble,1.0,C2H6O,polar protic,0.79,CCO,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_etoac_con0.5_insoluble.jpg,ethylacetate,peg10k,insoluble,0.5,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_etoac_con0.7_insoluble.jpg,ethylacetate,peg10k,insoluble,0.7,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_heptane_con0.1_insoluble.jpg,heptane,peg10k,insoluble,0.1,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_heptane_con0.1_withlens_repeat_insoluble.jpg,heptane,peg10k,insoluble,0.1,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_heptane_con0.3_insoluble.jpg,heptane,peg10k,insoluble,0.3,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_heptane_con0.3_withlens_repeat_insoluble.jpg,heptane,peg10k,insoluble,0.3,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_heptane_con0.3_withoutlens_repeat_insoluble.jpg,heptane,peg10k,insoluble,0.3,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_heptane_con0.5_insoluble.jpg,heptane,peg10k,insoluble,0.5,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_heptane_con0.7_insoluble.jpg,heptane,peg10k,insoluble,0.7,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_ipa_con0.1_insoluble.jpg,ipa,peg10k,insoluble,0.1,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_ipa_con0.1_withlens_repeat_insoluble.jpg,ipa,peg10k,insoluble,0.1,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_ipa_con0.1_withoutlens_repeat_insoluble.jpg,ipa,peg10k,insoluble,0.1,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_ipa_con0.3_insoluble.jpg,ipa,peg10k,insoluble,0.3,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_ipa_con0.5_insoluble.jpg,ipa,peg10k,insoluble,0.5,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_ipa_con0.7_insoluble.jpg,ipa,peg10k,insoluble,0.7,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_ipa_con1_insoluble.jpg,ipa,peg10k,insoluble,1.0,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_thf_con0.1_insoluble.jpg,thf,peg10k,insoluble,0.1,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_thf_con0.3_insoluble.jpg,thf,peg10k,insoluble,0.3,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_thf_con0.5_insoluble.jpg,thf,peg10k,insoluble,0.5,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_thf_con0.5_withlens_repeat_insoluble.jpg,thf,peg10k,insoluble,0.5,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_thf_con0.5_withoutlens_repeat_insoluble.jpg,thf,peg10k,insoluble,0.5,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_thf_con0.7_insoluble.jpg,thf,peg10k,insoluble,0.7,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_thf_con1_insoluble.jpg,thf,peg10k,insoluble,1.0,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_toluene_con0.1_insoluble.jpg,toluene,peg10k,insoluble,0.1,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_toluene_con0.3_insoluble.jpg,toluene,peg10k,insoluble,0.3,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_toluene_con0.5_insoluble.jpg,toluene,peg10k,insoluble,0.5,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_toluene_con0.7_insoluble.jpg,toluene,peg10k,insoluble,0.7,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_toluene_con1_insoluble.jpg,toluene,peg10k,insoluble,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+pmma_heptane_con0.1_insoluble.jpg,heptane,pmma,insoluble,0.1,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_heptane_con0.3_insoluble.jpg,heptane,pmma,insoluble,0.3,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_heptane_con0.5_insoluble.jpg,heptane,pmma,insoluble,0.5,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_heptane_con0.7_insoluble.jpg,heptane,pmma,insoluble,0.7,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_heptane_con1_insoluble.jpg,heptane,pmma,insoluble,1.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_ipa_con0.5_insoluble.jpg,ipa,pmma,insoluble,0.5,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_ipa_con0.5_withoutlens_repeat_insoluble.jpg,ipa,pmma,insoluble,0.5,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_ipa_con0.7_insoluble.jpg,ipa,pmma,insoluble,0.7,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+ps4ss_acetone_con0.1_insoluble.jpg,acetone,ps4ss,insoluble,0.1,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_acetone_con0.7_insoluble.jpg,acetone,ps4ss,insoluble,0.7,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_acetone_con1_insoluble.jpg,acetone,ps4ss,insoluble,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_dcm_con0.1_insoluble.jpg,dcm,ps4ss,insoluble,0.1,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_dcm_con0.3_insoluble.jpg,dcm,ps4ss,insoluble,0.3,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_dcm_con0.7_insoluble.jpg,dcm,ps4ss,insoluble,0.7,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_dcm_con1_insoluble.jpg,dcm,ps4ss,insoluble,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_ethanol_con0.1_insoluble.jpg,ethanol,ps4ss,insoluble,0.1,C2H6O,polar protic,0.79,CCO,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_ethanol_con0.5_insoluble.jpg,ethanol,ps4ss,insoluble,0.5,C2H6O,polar protic,0.79,CCO,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_etoac_con0.1_insoluble.jpg,ethylacetate,ps4ss,insoluble,0.1,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_etoac_con0.5_insoluble.jpg,ethylacetate,ps4ss,insoluble,0.5,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_etoac_con1_insoluble.jpg,ethylacetate,ps4ss,insoluble,1.0,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_heptane_con0.3_insoluble.jpg,heptane,ps4ss,insoluble,0.3,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_heptane_con1_insoluble.jpg,heptane,ps4ss,insoluble,1.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_ipa_con0.5_insoluble.jpg,ipa,ps4ss,insoluble,0.5,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_ipa_con0.7_insoluble.jpg,ipa,ps4ss,insoluble,0.7,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_ipa_con1_insoluble.jpg,ipa,ps4ss,insoluble,1.0,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_thf_con0.3_insoluble.jpg,thf,ps4ss,insoluble,0.3,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_thf_con0.5_insoluble.jpg,thf,ps4ss,insoluble,0.5,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_thf_con0.7_insoluble.jpg,thf,ps4ss,insoluble,0.7,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_thf_con1_insoluble.jpg,thf,ps4ss,insoluble,1.0,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_toluene_con0.1_insoluble.jpg,toluene,ps4ss,insoluble,0.1,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_toluene_con0.3_insoluble.jpg,toluene,ps4ss,insoluble,0.3,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_toluene_con0.5_insoluble.jpg,toluene,ps4ss,insoluble,0.5,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_toluene_con0.7_insoluble.jpg,toluene,ps4ss,insoluble,0.7,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_toluene_con1_insoluble.jpg,toluene,ps4ss,insoluble,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps_ethanol_con0.1_insoluble.jpg,ethanol,ps,insoluble,0.1,C2H6O,polar protic,0.79,CCO,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_ethanol_con0.1_withlens_repeat_insoluble.jpg,ethanol,ps,insoluble,0.1,C2H6O,polar protic,0.79,CCO,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_ethanol_con0.1_withoutlens_repeat_insoluble.jpg,ethanol,ps,insoluble,0.1,C2H6O,polar protic,0.79,CCO,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_ethanol_con0.5_insoluble.jpg,ethanol,ps,insoluble,0.5,C2H6O,polar protic,0.79,CCO,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_ethanol_con0.5_withlens_repeat_insoluble.jpg,ethanol,ps,insoluble,0.5,C2H6O,polar protic,0.79,CCO,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_ethanol_con0.5_withoutlens_repeat_insoluble.jpg,ethanol,ps,insoluble,0.5,C2H6O,polar protic,0.79,CCO,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_ethanol_con0.7_insoluble.jpg,ethanol,ps,insoluble,0.7,C2H6O,polar protic,0.79,CCO,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_ethanol_con0.7_withlens_repeat_insoluble.jpg,ethanol,ps,insoluble,0.7,C2H6O,polar protic,0.79,CCO,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_ethanol_con0.7_withoutlens_repeat_insoluble.jpg,ethanol,ps,insoluble,0.7,C2H6O,polar protic,0.79,CCO,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_heptane_con0.1_insoluble.jpg,heptane,ps,insoluble,0.1,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_heptane_con0.7_insoluble.jpg,heptane,ps,insoluble,0.7,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_heptane_con1_insoluble.jpg,heptane,ps,insoluble,1.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_ipa_con0.1_insoluble.jpg,ipa,ps,insoluble,0.1,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_ipa_con0.3_insoluble.jpg,ipa,ps,insoluble,0.3,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_water_con0.3_insoluble.jpg,water,ps,insoluble,0.3,H2O,highly polar,1.0,O,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+pva_acetone_con0.1_insoluble.jpg,acetone,pva,insoluble,0.1,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_acetone_con0.7_insoluble.jpg,acetone,pva,insoluble,0.7,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_acetone_con1_insoluble.jpg,acetone,pva,insoluble,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_acetone_con1_withlens_repeat_insoluble.jpg,acetone,pva,insoluble,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_acetone_con1_withoutlens_repeat_insoluble.jpg,acetone,pva,insoluble,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_dcm_con0.1_insoluble.jpg,dcm,pva,insoluble,0.1,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_dcm_con0.3_insoluble.jpg,dcm,pva,insoluble,0.3,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_dcm_con0.5_insoluble.jpg,dcm,pva,insoluble,0.5,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_dcm_con1_insoluble.jpg,dcm,pva,insoluble,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_ethanol_con0.3_insoluble.jpg,ethanol,pva,insoluble,0.3,C2H6O,polar protic,0.79,CCO,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_ethanol_con0.7_insoluble.jpg,ethanol,pva,insoluble,0.7,C2H6O,polar protic,0.79,CCO,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_ethanol_con1_insoluble.jpg,ethanol,pva,insoluble,1.0,C2H6O,polar protic,0.79,CCO,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_ethanol_con1_withlens_repeat_insoluble.jpg,ethanol,pva,insoluble,1.0,C2H6O,polar protic,0.79,CCO,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_ethanol_con1_withoutlens_repeat_insoluble.jpg,ethanol,pva,insoluble,1.0,C2H6O,polar protic,0.79,CCO,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_etoac_con0.1_insoluble.jpg,ethylacetate,pva,insoluble,0.1,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_etoac_con0.5_insoluble.jpg,ethylacetate,pva,insoluble,0.5,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_etoac_con0.7_insoluble.jpg,ethylacetate,pva,insoluble,0.7,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_etoac_con1_insoluble.jpg,ethylacetate,pva,insoluble,1.0,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_heptane_con0.1_insoluble.jpg,heptane,pva,insoluble,0.1,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_heptane_con0.3_insoluble.jpg,heptane,pva,insoluble,0.3,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_heptane_con0.5_insoluble.jpg,heptane,pva,insoluble,0.5,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_heptane_con1_insoluble.jpg,heptane,pva,insoluble,1.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_ipa_con0.3_insoluble.jpg,ipa,pva,insoluble,0.3,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_ipa_con0.5_insoluble.jpg,ipa,pva,insoluble,0.5,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_ipa_con0.7_insoluble.jpg,ipa,pva,insoluble,0.7,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_thf_con0.3_insoluble.jpg,thf,pva,insoluble,0.3,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_thf_con0.5_insoluble.jpg,thf,pva,insoluble,0.5,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_thf_con0.7_insoluble.jpg,thf,pva,insoluble,0.7,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_thf_con1_insoluble.jpg,thf,pva,insoluble,1.0,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_toluene_con0.1_insoluble.jpg,toluene,pva,insoluble,0.1,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_toluene_con0.7_insoluble.jpg,toluene,pva,insoluble,0.7,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_water_con0.1_insoluble.jpg,water,pva,insoluble,0.1,H2O,highly polar,1.0,O,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_water_con0.3_withlens_repeat_insoluble.jpg,water,pva,insoluble,0.3,H2O,highly polar,1.0,O,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_water_con0.3_withoutlens_repeat_insoluble.jpg,water,pva,insoluble,0.3,H2O,highly polar,1.0,O,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_water_con0.5_insoluble.jpg,water,pva,insoluble,0.5,H2O,highly polar,1.0,O,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pvp_etoac_con0.1_insoluble.jpg,ethylacetate,pvp,insoluble,0.1,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_etoac_con0.5_insoluble.jpg,ethylacetate,pvp,insoluble,0.5,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_etoac_con0.7_insoluble.jpg,ethylacetate,pvp,insoluble,0.7,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_etoac_con1_insoluble.jpg,ethylacetate,pvp,insoluble,1.0,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_heptane_con0.5_insoluble.jpg,heptane,pvp,insoluble,0.5,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_heptane_con1_insoluble.jpg,heptane,pvp,insoluble,1.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_toluene_con0.1_insoluble.jpg,toluene,pvp,insoluble,0.1,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_toluene_con0.3_insoluble.jpg,toluene,pvp,insoluble,0.3,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_toluene_con0.5_insoluble.jpg,toluene,pvp,insoluble,0.5,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_toluene_con0.7_insoluble.jpg,toluene,pvp,insoluble,0.7,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+Toluene_Heptane_pvp_con1_loop0_insoluble.jpg,toluene,pvp,insoluble,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+Toluene_Heptane_pvp_con1_loop1_insoluble.jpg,toluene,pvp,insoluble,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+toluene_pvp_con1_20h_insoluble.jpg,toluene,pvp,insoluble,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+toluene_pvp_con1_20h_lens_insoluble.jpg,toluene,pvp,insoluble,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+toluene_pvp_con1_insoluble.jpg,toluene,pvp,insoluble,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+Toluene_pvp_con1_loop0_insoluble.jpg,toluene,pvp,insoluble,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+water_pcl_con1_20h_insoluble.jpg,water,pcl,insoluble,1.0,H2O,highly polar,1.0,O,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+water_pcl_con1_20h_lens_insoluble.jpg,water,pcl,insoluble,1.0,H2O,highly polar,1.0,O,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+water_pcl_con1_insoluble.jpg,water,pcl,insoluble,1.0,H2O,highly polar,1.0,O,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+water_pmma_con10_loop3_insoluble.jpg,water,pmma,insoluble,10.0,H2O,highly polar,1.0,O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+water_pmma_con1_20h_lens_insoluble.jpg,water,pmma,insoluble,1.0,H2O,highly polar,1.0,O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+water_pmma_con5_loop3_insoluble.jpg,water,pmma,insoluble,5.0,H2O,highly polar,1.0,O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+water_ps_con10_loop4_insoluble.jpg,water,ps,insoluble,10.0,H2O,highly polar,1.0,O,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+water_ps_con5_loop4_insoluble.jpg,water,ps,insoluble,5.0,H2O,highly polar,1.0,O,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+"1,4-diozane_pvp_con1_partialsoluble.jpg",14dioxane,pvp,partialsoluble,1.0,C4H8O2,polar aprotic,1.03,C1COCCO1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+"1,4dioxane_pmma_con1_gellike_partialsoluble.jpg",14dioxane,pmma,partialsoluble,1.0,C4H8O2,polar aprotic,1.03,C1COCCO1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+1butanol_pmma_con1_20h_lens_partialsoluble.jpg,1butanol,pmma,partialsoluble,1.0,C4H10O,moderately polar,0.81,CCCCO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+1butanol_pmma_con1_20h_partialsoluble.jpg,1butanol,pmma,partialsoluble,1.0,C4H10O,moderately polar,0.81,CCCCO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+1propanol_chloroform_ps_con10_loop4_partialsoluble.jpg,chloroform,ps,partialsoluble,10.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+1propanol_chloroform_ps_con5_loop4_partialsoluble.jpg,chloroform,ps,partialsoluble,5.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+2butanol_pmma_con1_20h_lens_partialsoluble.jpg,2butanol,pmma,partialsoluble,1.0,C4H10O,polar protic,0.81,CCC(C)O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+2butanol_pmma_con1_20h_partialsoluble.jpg,2butanol,pmma,partialsoluble,1.0,C4H10O,polar protic,0.81,CCC(C)O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+acetone_ps_con5_loop4_partialsoluble.jpg,acetone,ps,partialsoluble,5.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+Acetone_pva_con1_loop0_partialsoluble.jpg,acetone,pva,partialsoluble,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+acetone_pvp_con10_loop5_partialsoluble.jpg,acetone,pvp,partialsoluble,10.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+Acetone_pvp_con1_loop0_partialsoluble.jpg,acetone,pvp,partialsoluble,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+Acetone_pvp_con1_loop1_partialsoluble.jpg,acetone,pvp,partialsoluble,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+acetone_pvp_con5_loop5_partialsoluble.jpg,acetone,pvp,partialsoluble,5.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+benzylalcohol_pmma_con10_loop3_partialsoluble.jpg,benzylalcohol,pmma,partialsoluble,10.0,C7H8O,slightly polar,1.04,C1=CC=C(C=C1)CO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+benzylalcohol_pmma_con5_loop3_partialsoluble.jpg,benzylalcohol,pmma,partialsoluble,5.0,C7H8O,slightly polar,1.04,C1=CC=C(C=C1)CO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+benzylalcohol_pmma_con5_powder_loop3_partialsoluble.jpg,benzylalcohol,pmma,partialsoluble,5.0,C7H8O,slightly polar,1.04,C1=CC=C(C=C1)CO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+benzylalcohol_ps_con5_loop4_partialsoluble.jpg,benzylalcohol,ps,partialsoluble,5.0,C7H8O,slightly polar,1.04,C1=CC=C(C=C1)CO,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+butylbenzoate_pcl_con1_20h_lens_partialsoluble.jpg,butylbenzoate,pcl,partialsoluble,1.0,C11H14O2,low polarity,1.01,CCCCOC(=O)C1=CC=CC=C1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+DCM_Diethylether_pva_con1_loop1_partialsoluble.jpg,dcm,pva,partialsoluble,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+DCM_Diethylether_pvp_con1_loop1_partialsoluble.jpg,dcm,pvp,partialsoluble,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+diethylether_pcl_con1_20h_partialsoluble.jpg,diethylether,pcl,partialsoluble,1.0,C4H10O,slightly polar,0.71,CCOCC,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+diethylether_pcl_con5_loop2_partialsoluble.jpg,diethylether,pcl,partialsoluble,5.0,C4H10O,slightly polar,0.71,CCOCC,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+diethylether_pmma_con1_20h_partialsoluble.jpg,diethylether,pmma,partialsoluble,1.0,C4H10O,slightly polar,0.71,CCOCC,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+diethylether_ps_con10_loop4_partialsoluble.jpg,diethylether,ps,partialsoluble,10.0,C4H10O,slightly polar,0.71,CCOCC,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+dmso_acetone_pmma_con10_loop3_partialsoluble.jpg,acetone,pmma,partialsoluble,10.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+dmso_acetone_ps_con10_loop4_partialsoluble.jpg,acetone,ps,partialsoluble,10.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+DMSO_Acetone_pva_con1_loop0_partialsoluble.jpg,acetone,pva,partialsoluble,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+DMSO_Acetone_pva_con1_loop1_partialsoluble.jpg,acetone,pva,partialsoluble,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+dmso_acetonitrile_pmma_con10_loop3_partialsoluble.jpg,acetonitrile,pmma,partialsoluble,10.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+dmso_acetonitrile_ps_con10_loop4_partialsoluble.jpg,acetonitrile,ps,partialsoluble,10.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+DMSO_Acetonitrile_pva_con1_loop0_partialsoluble.jpg,acetonitrile,pva,partialsoluble,1.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+DMSO_Acetonitrile_pva_con1_loop1_partialsoluble.jpg,acetonitrile,pva,partialsoluble,1.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+dmso_methanol_pcl_con10_loop2_partialsoluble.jpg,dmso,pcl,partialsoluble,10.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+dmso_methanol_pcl_con5_loop2_partialsoluble.jpg,dmso,pcl,partialsoluble,5.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+dmso_methanol_pmma_con10_loop3_partialsoluble.jpg,dmso,pmma,partialsoluble,10.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+dmso_methanol_ps_con10_loop4_partialsoluble.jpg,dmso,ps,partialsoluble,10.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+DMSO_Methanol_pva_con1_loop0_partialsoluble.jpg,dmso,pva,partialsoluble,1.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+DMSO_Methanol_pva_con1_loop1_partialsoluble.jpg,dmso,pva,partialsoluble,1.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+dmso_pcl_con10_loop2_partialsoluble.jpg,dmso,pcl,partialsoluble,10.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+dmso_pcl_con5_loop2_partialsoluble.jpg,dmso,pcl,partialsoluble,5.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+dmso_toluene_acetone_ps_con5_loop4_partialsoluble.jpg,acetone,ps,partialsoluble,5.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+DMSO_Toluene_Acetone_pva_con1_loop0_partialsoluble.jpg,acetone,pva,partialsoluble,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+DMSO_Toluene_Acetone_pva_con1_loop1_partialsoluble.jpg,acetone,pva,partialsoluble,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+dmso_toluene_acetone_pvp_con10_loop6_partialsoluble.jpg,acetone,pvp,partialsoluble,10.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+ethanol_pmma_con1_20h_lens_partialsoluble.jpg,ethanol,pmma,partialsoluble,1.0,C2H6O,polar protic,0.79,CCO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+ethanol_pmma_con1_20h_partialsoluble.jpg,ethanol,pmma,partialsoluble,1.0,C2H6O,polar protic,0.79,CCO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+ethylacetate_pvp_con1_20h_partialsoluble.jpg,ethylacetate,pvp,partialsoluble,1.0,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+heptane_pcl_con1_20h_partialsoluble.jpg,heptane,pcl,partialsoluble,1.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+ipa_pmma_con1_20h_partialsoluble.jpg,ipa,pmma,partialsoluble,1.0,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+Iso-Propyl_Acetate_pva_con1_loop0_partialsoluble.jpg,isopropylacetate,pva,partialsoluble,1.0,C5H10O2,slightly polar,0.87,CC(C)OC(=O)C,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+Iso-Propyl_Acetate_pva_con1_loop1_partialsoluble.jpg,isopropylacetate,pva,partialsoluble,1.0,C5H10O2,slightly polar,0.87,CC(C)OC(=O)C,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+isopropylacetate_pcl_con10_loop2_partialsoluble.jpg,isopropylacetate,pcl,partialsoluble,10.0,C5H10O2,slightly polar,0.87,CC(C)OC(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+isopropylacetate_pmma_con10_powder_loop3_partialsoluble.jpg,isopropylacetate,pmma,partialsoluble,10.0,C5H10O2,slightly polar,0.87,CC(C)OC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+isopropylacetate_ps_con10_loop4_partialsoluble.jpg,isopropylacetate,ps,partialsoluble,10.0,C5H10O2,slightly polar,0.87,CC(C)OC(=O)C,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+isopropylacetate_ps_con5_loop4_partialsoluble.jpg,isopropylacetate,ps,partialsoluble,5.0,C5H10O2,slightly polar,0.87,CC(C)OC(=O)C,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+methanol_pmma_con1_20h_lens_partialsoluble.jpg,methanol,pmma,partialsoluble,1.0,CH4O,polar protic,0.79,CO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+methanol_pmma_con1_20h_partialsoluble.jpg,methanol,pmma,partialsoluble,1.0,CH4O,polar protic,0.79,CO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+methylacetate_pmma_con1_gellike_partialsoluble.jpg,methylacetate,pmma,partialsoluble,1.0,C3H6O2,slightly polar,0.93,CC(=O)OC,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_acetonitrile_con5_withlens_repeat_partialsoluble.jpg,acetonitrile,pmma,partialsoluble,5.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_acetonitrile_con5_withoutlens_repeat_partialsoluble.jpg,acetonitrile,pmma,partialsoluble,5.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_ethanol_con0.1_partialsoluble.jpg,ethanol,pmma,partialsoluble,0.1,C2H6O,polar protic,0.79,CCO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_ethanol_con0.3_partialsoluble.jpg,ethanol,pmma,partialsoluble,0.3,C2H6O,polar protic,0.79,CCO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_ethanol_con1_partialsoluble.jpg,ethanol,pmma,partialsoluble,1.0,C2H6O,polar protic,0.79,CCO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_water_con0.1_partialsoluble.jpg,water,pmma,partialsoluble,0.1,H2O,highly polar,1.0,O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_water_con0.5_partialsoluble.jpg,water,pmma,partialsoluble,0.5,H2O,highly polar,1.0,O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_water_con0.7_partialsoluble.jpg,water,pmma,partialsoluble,0.7,H2O,highly polar,1.0,O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_water_con1_partialsoluble.jpg,water,pmma,partialsoluble,1.0,H2O,highly polar,1.0,O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+ps4ss_heptane_con0.1_partialsoluble.jpg,heptane,ps4ss,partialsoluble,0.1,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps_acetone_con0.3_partialsoluble.jpg,acetone,ps,partialsoluble,0.3,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_acetone_con0.5_partialsoluble.jpg,acetone,ps,partialsoluble,0.5,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_acetone_con0.7_partialsoluble.jpg,acetone,ps,partialsoluble,0.7,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_acetone_con1_partialsoluble.jpg,acetone,ps,partialsoluble,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_ipa_con0.7_partialsoluble.jpg,ipa,ps,partialsoluble,0.7,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_ipa_con1_partialsoluble.jpg,ipa,ps,partialsoluble,1.0,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+pvp_acetone_con0.5_partialsoluble.jpg,acetone,pvp,partialsoluble,0.5,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_acetone_con1_partialsoluble.jpg,acetone,pvp,partialsoluble,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_thf_con0.7_partialsoluble.jpg,thf,pvp,partialsoluble,0.7,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+toluene_heptane_pcl_con10_loop2_partialsoluble.jpg,toluene,pcl,partialsoluble,10.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+toluene_heptane_pcl_con5_loop2_partialsoluble.jpg,toluene,pcl,partialsoluble,5.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+toluene_heptane_pmma_con10_loop3_partialsoluble.jpg,toluene,pmma,partialsoluble,10.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+toluene_heptane_pmma_con5_loop3_partialsoluble.jpg,toluene,pmma,partialsoluble,5.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+Toluene_Heptane_pva_con1_loop1_partialsoluble.jpg,toluene,pva,partialsoluble,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+Toluene_pva_con1_loop0_partialsoluble.jpg,toluene,pva,partialsoluble,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+"1,4dioxane_20h_lens_soluble.jpg",14dioxane,no,soluble,0.0,C4H8O2,polar aprotic,1.03,C1COCCO1,homopolymer,,nan,,
+1butanol_20h_lens_soluble.jpg,1butanol,no,soluble,0.0,C4H10O,moderately polar,0.81,CCCCO,homopolymer,,nan,,
+acetone_20h_lens_soluble.jpg,acetone,no,soluble,0.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,,nan,,
+benzylalcohol_pvp_con1_20h_lens_soluble.jpg,benzylalcohol,pvp,soluble,1.0,C7H8O,slightly polar,1.04,C1=CC=C(C=C1)CO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dcm_20h_lens_soluble.jpg,dcm,no,soluble,0.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,,nan,,
+pcl_etoac_con0.7_soluble.jpg,ethylacetate,pcl,soluble,0.7,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_thf_con0.1_soluble.jpg,thf,pcl,soluble,0.1,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_thf_con0.3_soluble.jpg,thf,pcl,soluble,0.3,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_thf_con0.7_soluble.jpg,thf,pcl,soluble,0.7,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_toluene_con0.3_soluble.jpg,toluene,pcl,soluble,0.3,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_toluene_con0.5_soluble.jpg,toluene,pcl,soluble,0.5,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_toluene_con0.7_soluble.jpg,toluene,pcl,soluble,0.7,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pdms_dcm_con0.5_soluble.jpg,dcm,pdms,soluble,0.5,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_dcm_con0.7_soluble.jpg,dcm,pdms,soluble,0.7,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_dcm_con1_soluble.jpg,dcm,pdms,soluble,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_etoac_con0.1_soluble.jpg,ethylacetate,pdms,soluble,0.1,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_etoac_con0.3_soluble.jpg,ethylacetate,pdms,soluble,0.3,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_etoac_con1_soluble.jpg,ethylacetate,pdms,soluble,1.0,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_heptane_con0.7_soluble.jpg,heptane,pdms,soluble,0.7,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_thf_con0.1_soluble.jpg,thf,pdms,soluble,0.1,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_thf_con0.3_soluble.jpg,thf,pdms,soluble,0.3,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_thf_con0.5_soluble.jpg,thf,pdms,soluble,0.5,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_thf_con0.7_soluble.jpg,thf,pdms,soluble,0.7,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_thf_con1_soluble.jpg,thf,pdms,soluble,1.0,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+peg10k_dcm_con0.1_soluble.jpg,dcm,peg10k,soluble,0.1,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_dcm_con0.5_soluble.jpg,dcm,peg10k,soluble,0.5,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_dcm_con0.7_soluble.jpg,dcm,peg10k,soluble,0.7,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_dcm_con1_soluble.jpg,dcm,peg10k,soluble,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_water_con0.1_soluble.jpg,water,peg10k,soluble,0.1,H2O,highly polar,1.0,O,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_water_con0.3_soluble.jpg,water,peg10k,soluble,0.3,H2O,highly polar,1.0,O,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_water_con1_soluble.jpg,water,peg10k,soluble,1.0,H2O,highly polar,1.0,O,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg600_acetone_con0.1_soluble.jpg,acetone,peg600,soluble,0.1,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_acetone_con0.3_soluble.jpg,acetone,peg600,soluble,0.3,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_acetone_con0.5_soluble.jpg,acetone,peg600,soluble,0.5,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_acetone_con0.7_soluble.jpg,acetone,peg600,soluble,0.7,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_acetone_con1_soluble.jpg,acetone,peg600,soluble,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_dcm_con0.5_insoluble.jpg,dcm,peg600,insoluble,0.5,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_ethanol_con0.1_soluble.jpg,ethanol,peg600,soluble,0.1,C2H6O,polar protic,0.79,CCO,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_etoac_con0.3_soluble.jpg,ethylacetate,peg600,soluble,0.3,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_etoac_con0.5_soluble.jpg,ethylacetate,peg600,soluble,0.5,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_etoac_con0.7_soluble.jpg,ethylacetate,peg600,soluble,0.7,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_ipa_con0.1_soluble.jpg,ipa,peg600,soluble,0.1,C3H8O,polar protic,0.79,CC(C)O,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_ipa_con0.3_soluble.jpg,ipa,peg600,soluble,0.3,C3H8O,polar protic,0.79,CC(C)O,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_ipa_con0.5_soluble.jpg,ipa,peg600,soluble,0.5,C3H8O,polar protic,0.79,CC(C)O,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_ipa_con0.7_soluble.jpg,ipa,peg600,soluble,0.7,C3H8O,polar protic,0.79,CC(C)O,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_ipa_con1_soluble.jpg,ipa,peg600,soluble,1.0,C3H8O,polar protic,0.79,CC(C)O,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_thf_con0.1_soluble.jpg,thf,peg600,soluble,0.1,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_thf_con0.5_soluble.jpg,thf,peg600,soluble,0.5,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_thf_con0.7_soluble.jpg,thf,peg600,soluble,0.7,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_thf_con1_soluble.jpg,thf,peg600,soluble,1.0,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_toluene_con0.1_soluble.jpg,toluene,peg600,soluble,0.1,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_water_con0.1_soluble.jpg,water,peg600,soluble,0.1,H2O,highly polar,1.0,O,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_water_con0.3_soluble.jpg,water,peg600,soluble,0.3,H2O,highly polar,1.0,O,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_water_con0.7_soluble.jpg,water,peg600,soluble,0.7,H2O,highly polar,1.0,O,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_water_con1_soluble.jpg,water,peg600,soluble,1.0,H2O,highly polar,1.0,O,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+pmma_etoac_con0.1_soluble.jpg,ethylacetate,pmma,soluble,0.1,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_thf_con0.1_soluble.jpg,thf,pmma,soluble,0.1,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_thf_con0.3_soluble.jpg,thf,pmma,soluble,0.3,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_toluene_con0.3_soluble.jpg,toluene,pmma,soluble,0.3,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+ps4ss_water_con0.1_soluble.jpg,water,ps4ss,soluble,0.1,H2O,highly polar,1.0,O,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_water_con0.3_soluble.jpg,water,ps4ss,soluble,0.3,H2O,highly polar,1.0,O,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+pvp_dcm_con0.1_soluble.jpg,dcm,pvp,soluble,0.1,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_ipa_con0.7_soluble.jpg,ipa,pvp,soluble,0.7,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_ipa_con1_soluble.jpg,ipa,pvp,soluble,1.0,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_thf_con0.1_soluble.jpg,thf,pvp,soluble,0.1,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_water_con0.1_soluble.jpg,water,pvp,soluble,0.1,H2O,highly polar,1.0,O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+water_20h_lens_soluble.jpg,water,no,soluble,0.0,H2O,highly polar,1.0,O,homopolymer,,nan,,
+"1,3-Dioxolane_pvp_con10_loop6_colloidal.jpg",13dioxolane,pvp,colloidal,10.0,C3H6O2,polar aprotic,1.06,C1COCO1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+13dioxolane_pvp_con5_loop5_colloidal.jpg,13dioxolane,pvp,colloidal,5.0,C3H6O2,polar aprotic,1.06,C1COCO1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+2butanol_pvp_con1_20h_lens_colloidal.jpg,2butanol,pvp,colloidal,1.0,C4H10O,polar protic,0.81,CCC(C)O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+acetone_pcl_con5_loop2_colloidal.jpg,acetone,pcl,colloidal,5.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+acetone_pmma_con10_loop3_colloidal.jpg,acetone,pmma,colloidal,10.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+acetone_pmma_con1_20h_colloidal.jpg,acetone,pmma,colloidal,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+acetonitrile_pcl_con10_loop2_colloidal.jpg,acetonitrile,pcl,colloidal,10.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+acetonitrile_pmma_con10_loop3_colloidal.jpg,acetonitrile,pmma,colloidal,10.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+Acetonitrile_pvp_con1_loop0_colloidal.jpg,acetonitrile,pvp,colloidal,1.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+acetonitrile_pvp_con5_loop6_colloidal.jpg,acetonitrile,pvp,colloidal,5.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+chloroform_pvp_con5_loop6_colloidal.jpg,chloroform,pvp,colloidal,5.0,CHCl3,nonpolar,1.49,C(Cl)(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dcm_pcl_con1_colloidal.jpg,dcm,pcl,colloidal,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+dcm_ps_con5_loop4_colloidal.jpg,dcm,ps,colloidal,5.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+DMSO_Acetone_pvp_con1_loop0_colloidal.jpg,acetone,pvp,colloidal,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_acetonitrile_pcl_con10_loop2_colloidal.jpg,acetonitrile,pcl,colloidal,10.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+dmso_acetonitrile_pcl_con5_loop2_colloidal.jpg,acetonitrile,pcl,colloidal,5.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+DMSO_Acetonitrile_pvp_con1_loop1_colloidal.jpg,acetonitrile,pvp,colloidal,1.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_methanol_pvp_con5_loop5_colloidal.jpg,dmso,pvp,colloidal,5.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_pvp_con10_loop5_colloidal.jpg,dmso,pvp,colloidal,10.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+DMSO_Toluene_Acetone_pvp_con1_loop0_colloidal.jpg,acetone,pvp,colloidal,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+DMSO_Toluene_Acetone_pvp_con1_loop1_colloidal.jpg,acetone,pvp,colloidal,1.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+dmso_toluene_pcl_con10_loop2_colloidal.jpg,dmso,pcl,colloidal,10.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+dmso_toluene_pvp_con10_loop6_colloidal.jpg,dmso,pvp,colloidal,10.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+ethanol_pvp_con10_loop6_colloidal.jpg,ethanol,pvp,colloidal,10.0,C2H6O,polar protic,0.79,CCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+ethanol_pvp_con1_colloidal.jpg,ethanol,pvp,colloidal,1.0,C2H6O,polar protic,0.79,CCO,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pcl_acetone_con0.1_colloidal.jpg,acetone,pcl,colloidal,0.1,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_dcm_con1_colloidal.jpg,dcm,pcl,colloidal,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_toluene_con1_colloidal.jpg,toluene,pcl,colloidal,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pdms_dcm_con0.3_colloidal.jpg,dcm,pdms,colloidal,0.3,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_heptane_con0.5_colloidal.jpg,heptane,pdms,colloidal,0.5,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_toluene_con0.7_colloidal.jpg,toluene,pdms,colloidal,0.7,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pmma_dcm_con0.1_colloidal.jpg,dcm,pmma,colloidal,0.1,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_etoac_con0.5_colloidal.jpg,ethylacetate,pmma,colloidal,0.5,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_toluene_con1_colloidal.jpg,toluene,pmma,colloidal,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+ps4ss_water_con1_colloidal.jpg,water,ps4ss,colloidal,1.0,H2O,highly polar,1.0,O,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps_etoac_con0.1_colloidal.jpg,ethylacetate,ps,colloidal,0.1,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_etoac_con0.7_colloidal.jpg,ethylacetate,ps,colloidal,0.7,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_toluene_con0.3_colloidal.jpg,toluene,ps,colloidal,0.3,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+pvp_dcm_con0.7_colloidal.jpg,dcm,pvp,colloidal,0.7,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_ipa_con0.1_colloidal.jpg,ipa,pvp,colloidal,0.1,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+thf_pcl_con1_colloidal.jpg,thf,pcl,colloidal,1.0,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+thf_pmma_con1_20h_lens_colloidal.jpg,thf,pmma,colloidal,1.0,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+toluene_pmma_con1_colloidal_gellike.jpg,toluene,pmma,colloidal,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+toluene_ps_con10_loop4_colloidal.jpg,toluene,ps,colloidal,10.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+water_pvp_con1_20h_lens_colloidal.jpg,water,pvp,colloidal,1.0,H2O,highly polar,1.0,O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+water_pvp_con1_colloidal.jpg,water,pvp,colloidal,1.0,H2O,highly polar,1.0,O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+water_pvp_con1_colloidal_20h.jpg,water,pvp,colloidal,1.0,H2O,highly polar,1.0,O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+water_pvp_con5_loop5_colloidal.jpg,water,pvp,colloidal,5.0,H2O,highly polar,1.0,O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+water_pvp_con5_loop6_colloidal.jpg,water,pvp,colloidal,5.0,H2O,highly polar,1.0,O,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+1butanol_pcl_con1_insoluble.jpg,1butanol,pcl,insoluble,1.0,C4H10O,moderately polar,0.81,CCCCO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+1butanol_pmma_con1_insoluble.jpg,1butanol,pmma,insoluble,1.0,C4H10O,moderately polar,0.81,CCCCO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+1butanol_pmma_con5_loop3_insoluble.jpg,1butanol,pmma,insoluble,5.0,C4H10O,moderately polar,0.81,CCCCO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+1propanol_pmma_con5_loop3_insoluble.jpg,1propanol,pmma,insoluble,5.0,C3H8O,polar protic,0.8,CCCO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+2butanol_pcl_con1_20h_lens_insoluble.jpg,2butanol,pcl,insoluble,1.0,C4H10O,polar protic,0.81,CCC(C)O,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+2butanol_pcl_con1_insoluble.jpg,2butanol,pcl,insoluble,1.0,C4H10O,polar protic,0.81,CCC(C)O,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+diethylether_pcl_con1_20h_lens_insoluble.jpg,diethylether,pcl,insoluble,1.0,C4H10O,slightly polar,0.71,CCOCC,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+dmso_pmma_con10_loop3_insoluble.jpg,dmso,pmma,insoluble,10.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+DMSO_pva_con1_loop0_insoluble.jpg,dmso,pva,insoluble,1.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+ethanol_pcl_con1_20h_insoluble.jpg,ethanol,pcl,insoluble,1.0,C2H6O,polar protic,0.79,CCO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+ethanol_pcl_con5_loop2_insoluble.jpg,ethanol,pcl,insoluble,5.0,C2H6O,polar protic,0.79,CCO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+ethanol_pmma_con10_loop3_insoluble.jpg,ethanol,pmma,insoluble,10.0,C2H6O,polar protic,0.79,CCO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+ethanol_pmma_con5_loop3_insoluble.jpg,ethanol,pmma,insoluble,5.0,C2H6O,polar protic,0.79,CCO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+ethylacetate_pvp_con1_insoluble.jpg,ethylacetate,pvp,insoluble,1.0,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+heptane_ps_con10_loop4_insoluble.jpg,heptane,ps,insoluble,10.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+heptane_ps_con5_loop4_insoluble.jpg,heptane,ps,insoluble,5.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+Iso-Propyl_Acetate_pvp_con1_loop0_insoluble.jpg,isopropylacetate,pvp,insoluble,1.0,C5H10O2,slightly polar,0.87,CC(C)OC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+methanol_pcl_con10_loop2_insoluble.jpg,methanol,pcl,insoluble,10.0,CH4O,polar protic,0.79,CO,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+Methanol_pva_con1_loop0_insoluble.jpg,methanol,pva,insoluble,1.0,CH4O,polar protic,0.79,CO,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pcl_heptane_con0.7_insoluble.jpg,heptane,pcl,insoluble,0.7,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pcl_ipa_con0.5_insoluble.jpg,ipa,pcl,insoluble,0.5,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pdms_ipa_con0.5_insoluble.jpg,ipa,pdms,insoluble,0.5,C3H8O,polar protic,0.79,CC(C)O,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+peg10k_acetone_con0.5_insoluble.jpg,acetone,peg10k,insoluble,0.5,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_etaoc_con1_withoutlens_repeat_insoluble.jpg,ethylacetate,peg10k,insoluble,1.0,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_ethanol_con0.1_insoluble.jpg,ethanol,peg10k,insoluble,0.1,C2H6O,polar protic,0.79,CCO,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_ethanol_con0.7_insoluble.jpg,ethanol,peg10k,insoluble,0.7,C2H6O,polar protic,0.79,CCO,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_etoac_con0.3_insoluble.jpg,ethylacetate,peg10k,insoluble,0.3,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_etoac_con1_insoluble.jpg,ethylacetate,peg10k,insoluble,1.0,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_etoac_con1_withlens_repeat_insoluble.jpg,ethylacetate,peg10k,insoluble,1.0,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_heptane_con1_insoluble.jpg,heptane,peg10k,insoluble,1.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_heptane_con1_withlens_repeat_insoluble.jpg,heptane,peg10k,insoluble,1.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_heptane_con1_withoutlens_repeat_insoluble.jpg,heptane,peg10k,insoluble,1.0,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+pmma_ipa_con0.3_insoluble.jpg,ipa,pmma,insoluble,0.3,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_ipa_con0.3_withlens_repeat_insoluble.jpg,ipa,pmma,insoluble,0.3,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_ipa_con0.3_withoutlens_repeat_insoluble.jpg,ipa,pmma,insoluble,0.3,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_ipa_con1_insoluble.jpg,ipa,pmma,insoluble,1.0,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_ipa_con1_withlens_repeat_insoluble.jpg,ipa,pmma,insoluble,1.0,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_ipa_con1_withoutlens_repeat_insoluble.jpg,ipa,pmma,insoluble,1.0,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+ps4ss_acetone_con0.3_insoluble.jpg,acetone,ps4ss,insoluble,0.3,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_dcm_con0.5_insoluble.jpg,dcm,ps4ss,insoluble,0.5,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_ethanol_con0.7_insoluble.jpg,ethanol,ps4ss,insoluble,0.7,C2H6O,polar protic,0.79,CCO,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_etoac_con0.3_insoluble.jpg,ethylacetate,ps4ss,insoluble,0.3,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps4ss_thf_con0.1_insoluble.jpg,thf,ps4ss,insoluble,0.1,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"70,000",C8H8O3S,Styrene sulfonic acid,C1=CC=C(C=C1)C=CS(=O)(=O)O
+ps_ipa_con0.5_insoluble.jpg,ipa,ps,insoluble,0.5,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_ipa_con0.5_withlens_repeat_insoluble.jpg,ipa,ps,insoluble,0.5,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_ipa_con0.5_withoutlens_repeat_insoluble.jpg,ipa,ps,insoluble,0.5,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_water_con0.1_insoluble.jpg,water,ps,insoluble,0.1,H2O,highly polar,1.0,O,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_water_con0.5_insoluble.jpg,water,ps,insoluble,0.5,H2O,highly polar,1.0,O,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+pva_acetone_con0.5_insoluble.jpg,acetone,pva,insoluble,0.5,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_etoac_con0.3_insoluble.jpg,ethylacetate,pva,insoluble,0.3,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_heptane_con0.7_insoluble.jpg,heptane,pva,insoluble,0.7,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_ipa_con1_insoluble.jpg,ipa,pva,insoluble,1.0,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_ipa_con1_withlens_repeat_insoluble.jpg,ipa,pva,insoluble,1.0,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_ipa_con1_withoutlens_repeat_insoluble.jpg,ipa,pva,insoluble,1.0,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_thf_con0.1_insoluble.jpg,thf,pva,insoluble,0.1,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_toluene_con0.3_insoluble.jpg,toluene,pva,insoluble,0.3,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_toluene_con0.5_insoluble.jpg,toluene,pva,insoluble,0.5,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_toluene_con1_insoluble.jpg,toluene,pva,insoluble,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pva_water_con0.3_insoluble.jpg,water,pva,insoluble,0.3,H2O,highly polar,1.0,O,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pvp_heptane_con0.3_insoluble.jpg,heptane,pvp,insoluble,0.3,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_heptane_con0.7_insoluble.jpg,heptane,pvp,insoluble,0.7,C7H16,nonpolar,0.68,CCCCCCC,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+Toluene_Heptane_pva_con1_loop0_insoluble.jpg,toluene,pva,insoluble,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+water_pcl_con5_loop2_insoluble.jpg,water,pcl,insoluble,5.0,H2O,highly polar,1.0,O,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+"1,3-Dioxolane_pva_con1_loop0_partialsoluble.jpg",13dioxolane,pva,partialsoluble,1.0,C3H6O2,polar aprotic,1.06,C1COCO1,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+"1,3-Dioxolane_pva_con1_loop1_partialsoluble.jpg",13dioxolane,pva,partialsoluble,1.0,C3H6O2,polar aprotic,1.06,C1COCO1,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+acetone_ps_con10_loop4_partialsoluble.jpg,acetone,ps,partialsoluble,10.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+benzylalcohol_ps_con10_loop4_partialsoluble.jpg,benzylalcohol,ps,partialsoluble,10.0,C7H8O,slightly polar,1.04,C1=CC=C(C=C1)CO,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+butylbenzoate_pcl_con1_20h_partialsoluble.jpg,butylbenzoate,pcl,partialsoluble,1.0,C11H14O2,low polarity,1.01,CCCCOC(=O)C1=CC=CC=C1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+DCM_Diethylether_pva_con1_loop0_partialsoluble.jpg,dcm,pva,partialsoluble,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+diethylether_pmma_con1_20h_lens_partialsoluble.jpg,diethylether,pmma,partialsoluble,1.0,C4H10O,slightly polar,0.71,CCOCC,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+diethylether_ps_con5_loop4_partialsoluble.jpg,diethylether,ps,partialsoluble,5.0,C4H10O,slightly polar,0.71,CCOCC,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+dmso_acetone_pmma_con5_loop3_partialsoluble.jpg,acetone,pmma,partialsoluble,5.0,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+dmso_acetonitrile_pmma_con5_loop3_partialsoluble.jpg,acetonitrile,pmma,partialsoluble,5.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+dmso_acetonitrile_ps_con5_loop4_partialsoluble.jpg,acetonitrile,ps,partialsoluble,5.0,C2H3N,polar aprotic,0.78,CC#N,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+dmso_methanol_pmma_con5_loop3_partialsoluble.jpg,dmso,pmma,partialsoluble,5.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+dmso_methanol_ps_con5_loop4_partialsoluble.jpg,dmso,ps,partialsoluble,5.0,C2H6OS,polar aprotic,1.1,CS(=O)C,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ipa_pmma_con1_20h_lens_partialsoluble.jpg,ipa,pmma,partialsoluble,1.0,C3H8O,polar protic,0.79,CC(C)O,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+pmma_ethanol_con0.7_partialsoluble.jpg,ethanol,pmma,partialsoluble,0.7,C2H6O,polar protic,0.79,CCO,homopolymer,"15,000",C5H8O2,Methyl methacrylate,CC(=C)C(=O)OC
+ps_acetone_con0.1_withlens_repeat_partialsoluble.jpg,acetone,ps,partialsoluble,0.1,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+ps_acetone_con0.1_withoutlens_repeat_partialsoluble.jpg,acetone,ps,partialsoluble,0.1,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"192,000",C8H8,Styrene (vinylbenzene),C=CC1=CC=CC=C1
+pvp_acetone_con0.1_partialsoluble.jpg,acetone,pvp,partialsoluble,0.1,C3H6O,polar aprotic,0.79,CC(=O)C,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+pvp_thf_con1_partialsoluble.jpg,thf,pvp,partialsoluble,1.0,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"55,000",C6H9NO,N-vinylpyrrolidone,C=CN1CCCC1=O
+Toluene_pva_con1_loop1_partialsoluble.jpg,toluene,pva,partialsoluble,1.0,C7H8,nonpolar,0.87,CC1=CC=CC=C1,homopolymer,"98,000",Polyvinyl alcohol,Vinyl acetate,CC(=O)OC=C
+pcl_thf_con0.5_soluble.jpg,thf,pcl,soluble,0.5,C4H8O,polar aprotic,0.89,C1CCOC1,homopolymer,"80,000",C6H10O2,ε-Caprolactone,C1CCC(=O)OCC1
+pdms_dcm_con0.1_soluble.jpg,dcm,pdms,soluble,0.1,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+pdms_etoac_con0.5_soluble.jpg,ethylacetate,pdms,soluble,0.5,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,550,C2H6OSi,Dimethylsiloxane,C[Si](C)=O
+peg10k_water_con0.5_soluble.jpg,water,peg10k,soluble,0.5,H2O,highly polar,1.0,O,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg10k_water_con0.7_soluble.jpg,water,peg10k,soluble,0.7,H2O,highly polar,1.0,O,homopolymer,"10,000",C2H4O,Ethylene oxide,C1CO1
+peg600_dcm_con0.7_insoluble.jpg,dcm,peg600,insoluble,0.7,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_dcm_con1_insoluble.jpg,dcm,peg600,insoluble,1.0,CH2Cl2,moderately polar,1.33,C(Cl)Cl.C(Cl)Cl,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_ethanol_con0.3_soluble.jpg,ethanol,peg600,soluble,0.3,C2H6O,polar protic,0.79,CCO,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_ethanol_con1_soluble.jpg,ethanol,peg600,soluble,1.0,C2H6O,polar protic,0.79,CCO,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_etoac_con0.1_soluble.jpg,ethylacetate,peg600,soluble,0.1,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_etoac_con1_soluble.jpg,ethylacetate,peg600,soluble,1.0,C4H8O2,slightly polar,0.9,CCOC(=O)C,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
+peg600_water_con0.5_soluble.jpg,water,peg600,soluble,0.5,H2O,highly polar,1.0,O,homopolymer,600,C2H4O,Ethylene oxide,C1CO1
