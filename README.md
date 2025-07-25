@@ -15,7 +15,7 @@ PolyChar is a simple laser-based platform that combines computer vision and deep
 
 ## Installation
 
-To install the repository, follow these steps:
+To install the repository, follow these steps (Note that this will install the CPU version of torch only):
 
 1. **Clone the repository**:
     ```sh
@@ -24,7 +24,7 @@ To install the repository, follow these steps:
     cd Polymer_characterisation
     ```
 
-2. **Create a conda environment**:
+2. **Create a conda environment and ensure it is activated**:
     ```sh
     conda create --name polychar_env python=3.9
     conda activate polychar_env
@@ -40,10 +40,39 @@ To install the repository, follow these steps:
     python -m unittest discover
     ```
 
+If you want to install torch with CUDA for GPU acceleration, afterwards you can do the following.
+
+5. **Uninstall torch and torchvision from the environment**
+    ```
+    pip uninstall torch torchvision
+    ```
+
+6. **Install torch and torchvision with CUDA support e.g. `cu121` (see notes for CUDA version):**
+
+    ```sh
+    pip install torch==2.3.0+cu121 torchvision==0.18.0+cu121 --extra-index-url https://download.pytorch.org/whl/cu121
+    ```
+
+
+> **Note:**  
+> - The CUDA version (e.g. `cu121`) should match your GPU and driver.  
+> - For most users, you do **not** need to install the CUDA toolkit separately.
+> - If you have a different GPU or CUDA version, see [PyTorch's official installation guide](https://pytorch.org/get-started/locally/).
+> - While efforts have been made towards bit-accurate reproducibility, differences in drivers and cuda toolkits, among other factors, will likely yield slightly different results.
+
+## Datasets
+
+The necessary datasets to run the code are hosted at https://zenodo.org/records/15480040. Replace the empty folders for...
+- `Particle Size Regression/Particle_Size-data`
+- `Solubility Classification/Solubility-data`
+- `Hansen Solubility Parameters/Hansen_Solubility_Parameters-data`
+
+With the corresponding folders in Zenodo and you should be good to go!
+
 
 ## Solubility Results
 
-Running solubility.ipynb on the solubility dataset should give the following results (ommitting @3 and @2 metrics).
+Running `solubility.ipynb` on the solubility dataset should give the following **(or similar)** results (ommitting @3 and @2 metrics).
 
 | Model             |F1 Score@4     | Accuracy@4    | Precision@4   | Recall@4      |
 |--------------     |-----------    |--------       |----------     |----------     |
@@ -66,7 +95,8 @@ Running solubility.ipynb on the solubility dataset should give the following res
 
 ## Particle Size Results
 
-
+- Running `particle_size.ipynb` should give the following **(or similar)** results for **PPSNet - MLP (Sine)**.
+- Running `polynomial_regression.ipynb` can be used to obtain the polynomial_regression results.
 
 | Method                    | MAE (nm)(mean ± std)     | RMSE (nm)(mean ± std)     | R²(mean ± std)     |
 | ------------------------- | ------------------------ | ------------------------- | ------------------ |
@@ -84,20 +114,25 @@ The project is organized as follows:
 ```
 PolyChar/
 ├── Solubility Classification/
+│   ├── Solubility-Data/        # Data found in Zenodo
+│   ├── results/                # ^
+│   ├── Trained_Models/         # ^
 │   ├── dataloaders.py 
-│   ├── train_classifier.py 
-│   ├── results/
-│   │   └── Summarize_results.ipynb
-│   ├── solubility_and_hparams.ipynb
 │   ├── models.py 
+│   ├── solubility.ipynb
+│   ├── summarize_results.ipynb
+│   ├── train.py 
 │   └── utils.py 
 ├── ParticleSize Regression/
+│   ├── Particle_Size-Data/     # Data found in Zenodo
+│   ├── results/                # ^
+│   ├── Trained_Models/         # ^
 │   ├── dataloaders.py 
-│   ├── train_regression.py 
-│   ├── ps_models.py 
-│   ├── polynomial_regression.ipynb
-│   ├── particle_size.ipynb
 │   ├── figures.ipynb
+│   ├── particle_size.ipynb
+│   ├── polynomial_regression.ipynb
+│   ├── ps_models.py
+│   ├── train_regression.py 
 │   └── utils.py 
 ├── Hansen Solubility Parameters/
 │   ├── Genetic_algorithm.py
