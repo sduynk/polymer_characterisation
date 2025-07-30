@@ -114,7 +114,8 @@ The project is organized as follows:
 ```
 PolyChar/
 ├── Solubility Classification/
-│   ├── Solubility-Data/        # Data found in Zenodo
+│   ├── Solubility-Data/        
+│   │   └── annotation.csv       # Data found in Zenodo
 │   ├── results/                # ^
 │   ├── Trained_Models/         # ^
 │   ├── dataloaders.py 
@@ -124,7 +125,8 @@ PolyChar/
 │   ├── train.py 
 │   └── utils.py 
 ├── ParticleSize Regression/
-│   ├── Particle_Size-Data/     # Data found in Zenodo
+│   ├── Particle_Size-Data/
+│   │   └── annotation.csv     # Data found in Zenodo
 │   ├── results/                # ^
 │   ├── Trained_Models/         # ^
 │   ├── dataloaders.py 
