@@ -95,7 +95,7 @@ To obtain HSP Results, cd into the `Hansen Solubility Parameters` directory and 
 
 ## Particle Size Results
 
-- Running `particle_size.ipynb` should give the following **(or similar)** results for **PPSNet - MLP (Sine)**.
+- Running `particle_size.ipynb` should give the following **(or similar)** results for **PPSNet - MLP (ReLU)**.
 - Running `polynomial_regression.ipynb` can be used to obtain the polynomial_regression results.
 
 | Method                    | MAE (nm)(mean ± std)     | RMSE (nm)(mean ± std)     | R²(mean ± std)     |
