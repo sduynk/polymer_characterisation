@@ -1,18 +1,7 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
-import pandas as pd
-import numpy as np
-import numpy as np
-from scipy.optimize import minimize
-import torch
-import torch.nn as nn 
 import numpy as np
 import random
-import os 
+import pandas as pd
+import time
 
 def RA(point, mean):
 
@@ -56,7 +45,6 @@ def vebber_cost(center, radius, positive_points, negative_points):
     all_cost = np.prod(all_costs, axis=0) ** (1/N)
     all_cost = all_cost * (radius ** (-1/20))
     return all_cost
-
 
 def init_pop(population_size, positive_points):
     
@@ -167,26 +155,6 @@ def genetic_algorithm(population_size, generations, mutation_rate, positive_poin
         return best_individual, -best_fitness
     return best_individual, best_fitness
 
-
-
-csvs = ["PVP.csv", "PMMA.csv", "PCL.csv", "PS.csv"]
-
-hsp = {
-    "PVP": [17.5, 8.0, 15.0],
-    "PMMA": [18.6, 10.5, 5.1],
-    "PCL": [17.7, 5.0, 8.4],
-    "PS": [18.5, 4.5, 2.9],
-    "PES": [19.0, 11.0, 8.0]
-}
-
-population_size = 8192
-generations = 200
-mutation_rate = 0.95
-
-loss_functions = [vebber_cost]
-
-rows = []
-
 def distance(point1, point2):
     return np.sqrt(np.sum((point1 - point2) ** 2))
 
@@ -194,58 +162,91 @@ def percentage_distance_error(distance, target):
     norm = np.linalg.norm(target)
     return (distance / norm) * 100
 
-for csv in csvs:
-
-    for loss in loss_functions:
-
-        print(csv)
-
-        df = pd.read_csv(csv)
-
-        # Example data
-        class_in = df[df['Solub'] == 1][['delta_d', 'delta_p', 'delta_h']].values
-        class_out = df[df['Solub'] == 0][['delta_d', 'delta_p', 'delta_h']].values
-
-        positive_points = class_in
-        negative_points = class_out
-
-        mode = "maximize"
-
-        # Run the genetic algorithm
-        best_individual, best_fitness = genetic_algorithm(population_size, generations, mutation_rate, positive_points, negative_points, loss, mode=mode)
-
-        d, p, h, R0 = best_individual
-
-        target = hsp[csv.split(".")[0].split("_")[0]]
-        D, P, H = target
-
-        target = np.array(target)
-        pred = np.array([d, p, h])
-        
-        error = distance(target, pred)
-        pe = percentage_distance_error(error, target)
-
-        row = {"loss": loss.__name__, "dataset": csv.split(".")[0], "d": d, "p": p, "h": h, "R0": R0, "D": D, "P": P, "H":H, "fitness": best_fitness, "distance": error, "percentage_error": pe}
-
-        rows.append(row)
-
-df = pd.DataFrame(rows)
 
 
+def fit_data(df, config):
+    population_size = config["population_size"]
+    generations = config["generations"]
+    mutation_rate = config["mutation_rate"]
+
+    # Example data
+    class_in = df[df['Solub'] == 1][['delta_d', 'delta_p', 'delta_h']].values
+    class_out = df[df['Solub'] == 0][['delta_d', 'delta_p', 'delta_h']].values
+
+    positive_points = class_in
+    negative_points = class_out
+
+    # Run the genetic algorithm
+    best_individual, best_fitness = genetic_algorithm(
+        population_size, 
+        generations, 
+        mutation_rate, 
+        positive_points, 
+        negative_points, 
+        vebber_cost, 
+        mode="maximize"
+    )
+
+    return best_individual, best_fitness
 
 
+def run_experiment(csv, target):
+    
+    # Hparams
+    config = {
+        "population_size": 8192,
+        "generations": 200,
+        "mutation_rate": 0.95,
+    }
 
-df
+    df = pd.read_csv(csv)
+
+    best_individual, best_fitness = fit_data(df, config)
+    d, p, h, R0 = best_individual
 
 
-# In[4]:
+    target = np.array(target)
+    pred = np.array([d, p, h])
 
+    error = distance(target, pred)
+    pe = percentage_distance_error(error, target)
 
+    result = {
+        "loss": vebber_cost.__name__,
+        "dataset": csv.split(".")[0],
+        "d": d,
+        "p": p,
+        "h": h,
+        "R0": R0,
+        "D (GT)": target[0],
+        "P (GT)": target[1],
+        "H (GT)": target[2],
+        "fitness": best_fitness,
+        "distance": error,
+        "percentage_error": pe}
+    
+    return result
 
+if __name__ == "__main__":
 
+    # List of CSV files to process
+    csvs = ["PVP.csv", "PMMA.csv", "PCL.csv", "PS.csv", "PES.csv"]
 
-# In[5]:
+    # Hansen Solubility Parameters targets
+    hsp = {
+        "PVP": [17.5, 8.0, 15.0],
+        "PMMA": [18.6, 10.5, 5.1],
+        "PCL": [17.7, 5.0, 8.4],
+        "PS": [18.5, 4.5, 2.9],
+        "PES": [19.0, 11.0, 8.0]
+    }
 
+    results = []
 
-df
+    for csv in csvs:
+        target = hsp[csv.split(".")[0]]
+        result = run_experiment(csv, target)
+        results.append(result)
 
+    output = pd.DataFrame(results)
+    output.to_csv("genetic_algorithm_results.csv", index=False)
