@@ -129,7 +129,6 @@ class PSDataset(Dataset):
 
         return image, condition, target
         
-    
 def prep_data(config, train_df, val_df, test_df, target="particle_size", condition="concentration"):
     """
     Prepares data loaders for training, validation, and testing datasets.
@@ -175,6 +174,11 @@ def cross_val_particle_size(config, with_validation_set=False):
         tuple: Prepared data for training, validation (if with_validation_set is True), and testing.
     """
     df = pd.read_csv(os.path.join(config['data_dir'], 'annotations.csv'))
+
+    # Min-max scale the concentration column
+    min_conc = df['concentration'].min()
+    max_conc = df['concentration'].max()
+    df['concentration'] = (df['concentration'] - min_conc) / (max_conc - min_conc)
 
     df['unique_id'] = df.apply(lambda row: f"{row['concentration']}_{row['particle_size']}", axis=1)
     
