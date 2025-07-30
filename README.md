@@ -83,7 +83,7 @@ Running `solubility.ipynb` on the solubility dataset should give the following *
 
 ## Hansen Solubility Parameters Results
 
-
+To obtain HSP Results, cd into the `Hansen Solubility Parameters` directory and run `python Genetic_algorithm.py`
 
 | Polymer | Conc. (% w/v) | δD (GT) | δP (GT) | δH (GT) | δD (Pred) | δP (Pred) | δH (Pred) | R₀   | ED  | PED (%) |
 | ------- | ------------- | ------- | ------- | ------- | --------- | --------- | --------- | ---- | --- | ------- |
@@ -100,10 +100,10 @@ Running `solubility.ipynb` on the solubility dataset should give the following *
 
 | Method                    | MAE (nm)(mean ± std)     | RMSE (nm)(mean ± std)     | R²(mean ± std)     |
 | ------------------------- | ------------------------ | ------------------------- | ------------------ |
-| **PPSNet - MLP (Sine)**   | **9.91 ± 3.42**          | **15.76 ± 6.96**          | **0.98 ± 0.01**    |
+| **PPSNet - MLP (ReLU)**   | **9.53 ± 4.27**          | **15.60 ± 7.58**          | **0.99 ± 0.01**    |
 | PPSNet (no conditioning)  | 22.25 ± 3.97             | 32.01 ± 6.95              | 0.93 ± 0.04        |
 | Polynomial Regression     | 32.55 ± 6.67             | 47.81 ± 9.58              | 0.87 ± 0.03        |
-| EfficientNet - MLP (Sine) | 14.57 ± 3.71             | 23.64 ± 6.87              | 0.96 ± 0.02        |
+| EfficientNet - MLP (Sine) | 11.60 ± 3.07             | 20.13 ± 5.95              | 0.98 ± 0.01        |
 
 
 
